@@ -98,33 +98,71 @@ def badge(label: str, value: str, color: str, logo: str = "github") -> str:
         f"{label_enc}-{value_enc}-{color}?style=flat-square&logo={logo}&logoColor=white)"
     )
 
+# PR type → emoji mapping
+TYPE_EMOJI = {
+    "feat":     "✨",
+    "fix":      "🐛",
+    "docs":     "📖",
+    "refactor": "♻️",
+    "chore":    "🔧",
+    "perf":     "⚡",
+    "test":     "🧪",
+    "style":    "🎨",
+    "ci":       "🤖",
+    "build":    "📦",
+}
+
+
+def format_title(title: str, pr_url: str) -> str:
+    """
+    Strips conventional-commit prefix, picks an emoji,
+    and wraps the description as a link to the PR.
+    e.g. "feat: add dark mode" -> "✨ [add dark mode](url)"
+    """
+    emoji = "🔹"
+    text = title
+
+    for key, icon in TYPE_EMOJI.items():
+        if title.lower().startswith(key):
+            emoji = icon
+            colon = title.find(":")
+            text = title[colon + 1:].strip() if colon != -1 else title
+            break
+
+    if len(text) > 80:
+        text = text[:77] + "..."
+
+    return f"{emoji} [{text}]({pr_url})"
+
+
 # ---------------------------------------------------------------------------
 # README generator
 # ---------------------------------------------------------------------------
 
 def build_readme(all_prs: list[dict]) -> str:
     """
-    Build a single flat contributions table:
-      | Repository | PR | Description |
-    All PRs (merged + open), sorted newest first.
+    Single flat table. No PR # column.
+    Repo name links to the GitHub repo.
+    Description is an emoji-prefixed link to the PR.
     """
     lines: list[str] = [
         "## Contributions",
         "",
-        "| Repository | PR | Description |",
-        "|------------|----|-------------|",
+        "| Repository | Description |",
+        "|------------|-------------|",
     ]
 
     for pr in sorted(all_prs, key=lambda p: p["created_at"], reverse=True):
         repo = extract_repo(pr)
+        repo_url = f"https://github.com/{repo}"
         lines.append(
-            f"| `{repo}` "
-            f"| [#{pr['number']}]({pr['html_url']}) "
-            f"| {pr['title']} |"
+            f"| [`{repo}`]({repo_url}) "
+            f"| {format_title(pr['title'], pr['html_url'])} |"
         )
 
     lines.append("")
     return "\n".join(lines)
+
 
 
 # ---------------------------------------------------------------------------
