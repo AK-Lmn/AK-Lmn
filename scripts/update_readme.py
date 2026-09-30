@@ -143,37 +143,74 @@ def parse_pr(title: str) -> tuple[str, str, str]:
 
 
 # ---------------------------------------------------------------------------
+# aespa Supernova/Whiplash theme constants
+# ---------------------------------------------------------------------------
+
+# All type pills use the same cold neon cyan on pitch black
+AESPA_CYAN   = "22d3ee"
+AESPA_BLACK  = "0d1117"
+AESPA_SILVER = "94a3b8"
+
+
+def type_pill(label: str) -> str:
+    """Neon cyan pill, dark background — Supernova era."""
+    return (
+        f'<img src="https://img.shields.io/badge/{label}-{AESPA_CYAN}'
+        f'?style=flat-square&labelColor={AESPA_BLACK}&color={AESPA_CYAN}" />'
+    )
+
+
+# ---------------------------------------------------------------------------
 # README generator
 # ---------------------------------------------------------------------------
 
 def build_readme(all_prs: list[dict]) -> str:
     """
-    3-column table:  Type pill | Repository | Description (linked to PR)
-    Sorted newest first. No emojis. No PR # column.
+    aespa Supernova/Whiplash themed profile README.
+    Centered HTML layout. HTML table. No markdown table, no emojis.
     """
-    lines: list[str] = [
-        "## Contributions",
-        "",
-        "| Type | Repository | Description |",
-        "|------|------------|-------------|",
-    ]
-
+    rows: list[str] = []
     for pr in sorted(all_prs, key=lambda p: p["created_at"], reverse=True):
         repo      = extract_repo(pr)
         repo_url  = f"https://github.com/{repo}"
-        label, color, text = parse_pr(pr["title"])
-        pill      = type_badge(label, color)
-        # just show repo name (not owner) for cleaner display
         repo_name = repo.split("/")[1]
-        lines.append(
-            f"| {pill} "
-            f"| [`{repo_name}`]({repo_url}) "
-            f"| [{text}]({pr['html_url']}) |"
+        label, _, text = parse_pr(pr["title"])
+        pill = type_pill(label)
+        rows.append(
+            f"    <tr>\n"
+            f"      <td>{pill}</td>\n"
+            f"      <td><a href=\"{repo_url}\"><code>{repo_name}</code></a></td>\n"
+            f"      <td><a href=\"{pr['html_url']}\">{text}</a></td>\n"
+            f"    </tr>"
         )
 
-    lines.append("")
-    return "\n".join(lines)
+    rows_str = "\n".join(rows)
 
+    readme = f"""\
+<div align="center">
+
+<img src="https://img.shields.io/badge/%C3%A6%20contributions-{AESPA_CYAN}?style=for-the-badge&labelColor={AESPA_BLACK}&color={AESPA_CYAN}&label=%C3%A6" />
+
+<sub><sup>synced across the real world</sup></sub>
+
+<br /><br />
+
+<table>
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>repository</th>
+      <th>description</th>
+    </tr>
+  </thead>
+  <tbody>
+{rows_str}
+  </tbody>
+</table>
+
+</div>
+"""
+    return readme
 
 
 # ---------------------------------------------------------------------------
