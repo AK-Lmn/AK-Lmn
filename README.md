@@ -6,6 +6,7 @@
 
 ---
 
+`›` [`DevBoard`](https://github.com/anoopcodehack/DevBoard) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add flip animation when task status changes (#545)](https://github.com/anoopcodehack/DevBoard/pull/570)<br/>
 `›` [`DevBoard`](https://github.com/anoopcodehack/DevBoard) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [show previous assignees on task card and modal (#564)](https://github.com/anoopcodehack/DevBoard/pull/569)<br/>
 `›` [`shadcn-labs.com`](https://github.com/shadcn-labs/shadcn-labs.com) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add search box and project filter to /issues (#13)](https://github.com/shadcn-labs/shadcn-labs.com/pull/21)<br/>
 `›` [`genealogy`](https://github.com/chinmaypurav/genealogy) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [remove unused /api/user endpoint and api routing (#15)](https://github.com/chinmaypurav/genealogy/pull/31)<br/>
