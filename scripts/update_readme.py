@@ -166,51 +166,36 @@ def type_pill(label: str) -> str:
 
 def build_readme(all_prs: list[dict]) -> str:
     """
-    aespa Supernova/Whiplash themed profile README.
-    Centered HTML layout. HTML table. No markdown table, no emojis.
+    aespa Supernova/Whiplash themed Cyber Terminal Log.
+    No boxy HTML table. Code-styled feed with clean dividers.
     """
-    rows: list[str] = []
+    feed_lines: list[str] = []
     for pr in sorted(all_prs, key=lambda p: p["created_at"], reverse=True):
         repo      = extract_repo(pr)
         repo_url  = f"https://github.com/{repo}"
         repo_name = repo.split("/")[1]
         label, _, text = parse_pr(pr["title"])
-        pill = type_pill(label)
-        rows.append(
-            f"    <tr>\n"
-            f"      <td>{pill}</td>\n"
-            f"      <td><a href=\"{repo_url}\"><code>{repo_name}</code></a></td>\n"
-            f"      <td><a href=\"{pr['html_url']}\">{text}</a></td>\n"
-            f"    </tr>"
+        feed_lines.append(
+            f"`›` [`{repo_name}`]({repo_url}) &nbsp;·&nbsp; "
+            f"`[{label.upper()}]` &nbsp;·&nbsp; "
+            f"[{text}]({pr['html_url']})<br/>"
         )
 
-    rows_str = "\n".join(rows)
+    feed_str = "\n".join(feed_lines)
 
     readme = f"""\
 <div align="center">
 
 <img src="https://img.shields.io/badge/%C3%A6%20contributions-{AESPA_CYAN}?style=for-the-badge&labelColor={AESPA_BLACK}&color={AESPA_CYAN}&label=%C3%A6" />
 
-<sub><sup>synced across the real world</sup></sub>
-
-<br /><br />
-
-<table>
-  <thead>
-    <tr>
-      <th>type</th>
-      <th>repository</th>
-      <th>description</th>
-    </tr>
-  </thead>
-  <tbody>
-{rows_str}
-  </tbody>
-</table>
-
 </div>
+
+---
+
+{feed_str}
 """
     return readme
+
 
 
 # ---------------------------------------------------------------------------
