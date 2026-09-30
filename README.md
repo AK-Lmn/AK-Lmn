@@ -6,6 +6,7 @@
 
 ---
 
+`›` [`shadcn-labs.com`](https://github.com/shadcn-labs/shadcn-labs.com) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add search box and project filter to /issues (#13)](https://github.com/shadcn-labs/shadcn-labs.com/pull/21)<br/>
 `›` [`genealogy`](https://github.com/chinmaypurav/genealogy) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [remove unused /api/user endpoint and api routing (#15)](https://github.com/chinmaypurav/genealogy/pull/31)<br/>
 `›` [`php-mkv-player-media-player-`](https://github.com/Tboypro/php-mkv-player-media-player-) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add keyboard shortcuts help panel and toggle button (#4)](https://github.com/Tboypro/php-mkv-player-media-player-/pull/5)<br/>
 `›` [`shadcn-labs.com`](https://github.com/shadcn-labs/shadcn-labs.com) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add custom 404 page (#18)](https://github.com/shadcn-labs/shadcn-labs.com/pull/20)<br/>
