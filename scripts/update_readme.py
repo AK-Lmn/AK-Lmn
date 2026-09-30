@@ -98,41 +98,48 @@ def badge(label: str, value: str, color: str, logo: str = "github") -> str:
         f"{label_enc}-{value_enc}-{color}?style=flat-square&logo={logo}&logoColor=white)"
     )
 
-# PR type → emoji mapping
-TYPE_EMOJI = {
-    "feat":     "✨",
-    "fix":      "🐛",
-    "docs":     "📖",
-    "refactor": "♻️",
-    "chore":    "🔧",
-    "perf":     "⚡",
-    "test":     "🧪",
-    "style":    "🎨",
-    "ci":       "🤖",
-    "build":    "📦",
+# PR type → badge color (shields.io flat-square pills)
+TYPE_BADGE = {
+    "feat":     ("feat",     "6e40c9"),  # purple
+    "fix":      ("fix",      "cf222e"),  # red
+    "docs":     ("docs",     "0969da"),  # blue
+    "refactor": ("refactor", "bf8700"),  # amber
+    "chore":    ("chore",    "57606a"),  # gray
+    "perf":     ("perf",     "1a7f37"),  # green
+    "test":     ("test",     "0d7377"),  # teal
+    "style":    ("style",    "e3116c"),  # pink
+    "ci":       ("ci",       "0075ca"),  # blue-gray
+    "build":    ("build",    "953800"),  # brown-orange
 }
+DEFAULT_BADGE = ("contrib", "57606a")
 
 
-def format_title(title: str, pr_url: str) -> str:
+def type_badge(label: str, color: str) -> str:
+    """Render a shields.io flat-square pill: ![label](url)"""
+    encoded = label.replace("-", "--")
+    return (
+        f"![{label}](https://img.shields.io/badge/{encoded}-{color}"
+        f"?style=flat-square&labelColor=0d1117&color={color})"
+    )
+
+
+def parse_pr(title: str) -> tuple[str, str, str]:
     """
-    Strips conventional-commit prefix, picks an emoji,
-    and wraps the description as a link to the PR.
-    e.g. "feat: add dark mode" -> "✨ [add dark mode](url)"
+    Returns (badge_label, badge_color, clean_description).
+    Handles  "feat(scope): text"  and  "feat: text".
     """
-    emoji = "🔹"
-    text = title
-
-    for key, icon in TYPE_EMOJI.items():
-        if title.lower().startswith(key):
-            emoji = icon
+    low = title.lower()
+    for key, (label, color) in TYPE_BADGE.items():
+        if low.startswith(key):
             colon = title.find(":")
             text = title[colon + 1:].strip() if colon != -1 else title
-            break
+            if len(text) > 72:
+                text = text[:69] + "..."
+            return label, color, text
 
-    if len(text) > 80:
-        text = text[:77] + "..."
-
-    return f"{emoji} [{text}]({pr_url})"
+    label, color = DEFAULT_BADGE
+    text = title if len(title) <= 72 else title[:69] + "..."
+    return label, color, text
 
 
 # ---------------------------------------------------------------------------
@@ -141,23 +148,27 @@ def format_title(title: str, pr_url: str) -> str:
 
 def build_readme(all_prs: list[dict]) -> str:
     """
-    Single flat table. No PR # column.
-    Repo name links to the GitHub repo.
-    Description is an emoji-prefixed link to the PR.
+    3-column table:  Type pill | Repository | Description (linked to PR)
+    Sorted newest first. No emojis. No PR # column.
     """
     lines: list[str] = [
         "## Contributions",
         "",
-        "| Repository | Description |",
-        "|------------|-------------|",
+        "| Type | Repository | Description |",
+        "|------|------------|-------------|",
     ]
 
     for pr in sorted(all_prs, key=lambda p: p["created_at"], reverse=True):
-        repo = extract_repo(pr)
-        repo_url = f"https://github.com/{repo}"
+        repo      = extract_repo(pr)
+        repo_url  = f"https://github.com/{repo}"
+        label, color, text = parse_pr(pr["title"])
+        pill      = type_badge(label, color)
+        # just show repo name (not owner) for cleaner display
+        repo_name = repo.split("/")[1]
         lines.append(
-            f"| [`{repo}`]({repo_url}) "
-            f"| {format_title(pr['title'], pr['html_url'])} |"
+            f"| {pill} "
+            f"| [`{repo_name}`]({repo_url}) "
+            f"| [{text}]({pr['html_url']}) |"
         )
 
     lines.append("")
