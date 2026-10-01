@@ -202,6 +202,13 @@ def build_readme(all_prs: list[dict]) -> str:
 # Entry point
 # ---------------------------------------------------------------------------
 
+def get_issue(endpoint: str) -> dict:
+    url = f"https://api.github.com{endpoint}"
+    resp = requests.get(url, headers=HEADERS)
+    resp.raise_for_status()
+    return resp.json()
+
+
 def main() -> None:
     print(f"Fetching merged PRs for @{GITHUB_USERNAME} (external repos only)...")
     merged_prs = search_prs(
@@ -213,10 +220,21 @@ def main() -> None:
         f"author:{GITHUB_USERNAME} is:pr is:open -user:{GITHUB_USERNAME}"
     )
 
-    all_prs = merged_prs + open_prs
+    # Shipped via cherry-pick / upstream release (closed instead of merged on GitHub)
+    shipped_prs = []
+    for endpoint in ["/repos/Graphify-Labs/graphify/issues/3923"]:
+        try:
+            extra = get_issue(endpoint)
+            shipped_prs.append(extra)
+        except Exception as e:
+            print(f"Warning: could not fetch {endpoint}: {e}")
+
+    all_prs = merged_prs + open_prs + shipped_prs
     print(
-        f"\nSummary: {len(merged_prs)} merged + {len(open_prs)} open = {len(all_prs)} total PRs"
+        f"\nSummary: {len(merged_prs)} merged + {len(open_prs)} open + {len(shipped_prs)} shipped = {len(all_prs)} total PRs"
     )
+
+
 
     print("\nBuilding README...")
     readme_content = build_readme(all_prs)
