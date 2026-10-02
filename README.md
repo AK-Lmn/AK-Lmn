@@ -6,14 +6,14 @@
 
 ---
 
-› [irely-cql-sdk](https://github.com/FirelyTeam/firely-cql-sdk) &nbsp;·&nbsp; [FIX] &nbsp;·&nbsp; [fix TypeFoundIsNotExpected argument order and remove stray quote (#1750)](https://github.com/FirelyTeam/firely-cql-sdk/pull/1752)<br/>
-› [woo-pay](https://github.com/StaveIndustries/woo-pay) &nbsp;·&nbsp; [FIX] &nbsp;·&nbsp; [validate wallet address before saving (#1)](https://github.com/StaveIndustries/woo-pay/pull/21)<br/>
-› [slash-editor](https://github.com/buiducnhat/slash-editor) &nbsp;·&nbsp; [DOCS] &nbsp;·&nbsp; [add Vite + React starter example (#11)](https://github.com/buiducnhat/slash-editor/pull/18)<br/>
-› [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) &nbsp;·&nbsp; [DOCS] &nbsp;·&nbsp; [fix commands and options in chromadb-migration.md (#1421)](https://github.com/doobidoo/mcp-memory-service/pull/1422)<br/>
-› [playwright-github-actions-reporter](https://github.com/estruyf/playwright-github-actions-reporter) &nbsp;·&nbsp; [FEAT] &nbsp;·&nbsp; [show shard in summary title for sharded runs (#45)](https://github.com/estruyf/playwright-github-actions-reporter/pull/47)<br/>
-› [ork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) &nbsp;·&nbsp; [FEAT] &nbsp;·&nbsp; [style responsive card component in easy task (#8213)](https://github.com/fork-commit-merge/fork-commit-merge/pull/8342)<br/>
-› [staynest](https://github.com/vikas0799/staynest) &nbsp;·&nbsp; [FIX] &nbsp;·&nbsp; [reject past check-in dates on frontend and backend (#2)](https://github.com/vikas0799/staynest/pull/21)<br/>
-› [yasbd-lib](https://github.com/speedyk-005/yasbd-lib) &nbsp;·&nbsp; [FIX] &nbsp;·&nbsp; [address false splits by adding párrf and párr abbreviations (#354)](https://github.com/speedyk-005/yasbd-lib/pull/355)<br/>
+`›` [`firely-cql-sdk`](https://github.com/FirelyTeam/firely-cql-sdk) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [fix TypeFoundIsNotExpected argument order and remove stray quote (#1750)](https://github.com/FirelyTeam/firely-cql-sdk/pull/1752)<br/>
+`›` [`woo-pay`](https://github.com/StaveIndustries/woo-pay) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [validate wallet address before saving (#1)](https://github.com/StaveIndustries/woo-pay/pull/21)<br/>
+`›` [`slash-editor`](https://github.com/buiducnhat/slash-editor) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [add Vite + React starter example (#11)](https://github.com/buiducnhat/slash-editor/pull/18)<br/>
+`›` [`mcp-memory-service`](https://github.com/doobidoo/mcp-memory-service) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [fix commands and options in chromadb-migration.md (#1421)](https://github.com/doobidoo/mcp-memory-service/pull/1422)<br/>
+`›` [`playwright-github-actions-reporter`](https://github.com/estruyf/playwright-github-actions-reporter) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [show shard in summary title for sharded runs (#45)](https://github.com/estruyf/playwright-github-actions-reporter/pull/47)<br/>
+`›` [`fork-commit-merge`](https://github.com/fork-commit-merge/fork-commit-merge) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [style responsive card component in easy task](https://github.com/fork-commit-merge/fork-commit-merge/pull/8342)<br/>
+`›` [`staynest`](https://github.com/vikas0799/staynest) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [reject past check-in dates on frontend and backend (#2)](https://github.com/vikas0799/staynest/pull/21)<br/>
+`›` [`yasbd-lib`](https://github.com/speedyk-005/yasbd-lib) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [Address false splits by adding `párrf` and `párr` to the Spanish refe...](https://github.com/speedyk-005/yasbd-lib/pull/355)<br/>
 `›` [`DevBoard`](https://github.com/anoopcodehack/DevBoard) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add flip animation when task status changes (#545)](https://github.com/anoopcodehack/DevBoard/pull/570)<br/>
 `›` [`DevBoard`](https://github.com/anoopcodehack/DevBoard) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [show previous assignees on task card and modal (#564)](https://github.com/anoopcodehack/DevBoard/pull/569)<br/>
 `›` [`shadcn-labs.com`](https://github.com/shadcn-labs/shadcn-labs.com) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add search box and project filter to /issues (#13)](https://github.com/shadcn-labs/shadcn-labs.com/pull/21)<br/>
