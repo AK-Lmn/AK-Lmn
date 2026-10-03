@@ -6,6 +6,16 @@
 
 ---
 
+`›` [`beemr`](https://github.com/osmanahmadxai/beemr) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add --copy option to copy ticket to clipboard](https://github.com/osmanahmadxai/beemr/pull/7)<br/>
+`›` [`beemr`](https://github.com/osmanahmadxai/beemr) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [show estimated time remaining](https://github.com/osmanahmadxai/beemr/pull/6)<br/>
+`›` [`felege-yordanos-app`](https://github.com/Felege-Yordanos-Tech-Team/felege-yordanos-app) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add search input to desktop users table](https://github.com/Felege-Yordanos-Tech-Team/felege-yordanos-app/pull/51)<br/>
+`›` [`toolboundary`](https://github.com/Jaycubic/toolboundary) &nbsp;·&nbsp; `[TEST]` &nbsp;·&nbsp; [add fuzz and property tests for canonicalization and call binding](https://github.com/Jaycubic/toolboundary/pull/18)<br/>
+`›` [`embedcatalog`](https://github.com/embedcatalog/embedcatalog) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [Add search component to embeds page (#2)](https://github.com/embedcatalog/embedcatalog/pull/5)<br/>
+`›` [`kin-graph`](https://github.com/ch0sn/kin-graph) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [Split GEDCOM export lines over 255 characters with CONC/CONT (#22)](https://github.com/ch0sn/kin-graph/pull/23)<br/>
+`›` [`public-data-sentinel`](https://github.com/qorud02/public-data-sentinel) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [Keep column names literal in Markdown reports (#4)](https://github.com/qorud02/public-data-sentinel/pull/5)<br/>
+`›` [`Campus_lost_andFound`](https://github.com/ranishruti432-oss/Campus_lost_andFound) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [Show dismissible success message after submitting a report (#8)](https://github.com/ranishruti432-oss/Campus_lost_andFound/pull/18)<br/>
+`›` [`Campus_lost_andFound`](https://github.com/ranishruti432-oss/Campus_lost_andFound) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [Add image preview before submission (#7)](https://github.com/ranishruti432-oss/Campus_lost_andFound/pull/17)<br/>
+`›` [`aipr`](https://github.com/yunaremaia/aipr) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [safely parse integer environment variables with default fallback (#151)](https://github.com/yunaremaia/aipr/pull/153)<br/>
 `›` [`firely-cql-sdk`](https://github.com/FirelyTeam/firely-cql-sdk) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [fix TypeFoundIsNotExpected argument order and remove stray quote (#1750)](https://github.com/FirelyTeam/firely-cql-sdk/pull/1752)<br/>
 `›` [`woo-pay`](https://github.com/StaveIndustries/woo-pay) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [validate wallet address before saving (#1)](https://github.com/StaveIndustries/woo-pay/pull/21)<br/>
 `›` [`slash-editor`](https://github.com/buiducnhat/slash-editor) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [add Vite + React starter example (#11)](https://github.com/buiducnhat/slash-editor/pull/18)<br/>
@@ -13,7 +23,7 @@
 `›` [`playwright-github-actions-reporter`](https://github.com/estruyf/playwright-github-actions-reporter) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [show shard in summary title for sharded runs (#45)](https://github.com/estruyf/playwright-github-actions-reporter/pull/47)<br/>
 `›` [`fork-commit-merge`](https://github.com/fork-commit-merge/fork-commit-merge) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [style responsive card component in easy task](https://github.com/fork-commit-merge/fork-commit-merge/pull/8342)<br/>
 `›` [`staynest`](https://github.com/vikas0799/staynest) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [reject past check-in dates on frontend and backend (#2)](https://github.com/vikas0799/staynest/pull/21)<br/>
-`›` [`yasbd-lib`](https://github.com/speedyk-005/yasbd-lib) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [Address false splits by adding `párrf` and `párr` to the Spanish refe...](https://github.com/speedyk-005/yasbd-lib/pull/355)<br/>
+`›` [`yasbd-lib`](https://github.com/speedyk-005/yasbd-lib) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [Address false splits by adding párrf and párr to the Spanish referenc...](https://github.com/speedyk-005/yasbd-lib/pull/355)<br/>
 `›` [`DevBoard`](https://github.com/anoopcodehack/DevBoard) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add flip animation when task status changes (#545)](https://github.com/anoopcodehack/DevBoard/pull/570)<br/>
 `›` [`DevBoard`](https://github.com/anoopcodehack/DevBoard) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [show previous assignees on task card and modal (#564)](https://github.com/anoopcodehack/DevBoard/pull/569)<br/>
 `›` [`shadcn-labs.com`](https://github.com/shadcn-labs/shadcn-labs.com) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add search box and project filter to /issues (#13)](https://github.com/shadcn-labs/shadcn-labs.com/pull/21)<br/>
