@@ -6,6 +6,10 @@
 
 ---
 
+`›` [`foundry`](https://github.com/ConstitutiveTemplates/foundry) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [document pinned answers for presets in reference guide (#5)](https://github.com/ConstitutiveTemplates/foundry/pull/9)<br/>
+`›` [`security-actions`](https://github.com/basitalisandhu/security-actions) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add --sorted flag and LLMS-015 rule (#5)](https://github.com/basitalisandhu/security-actions/pull/9)<br/>
+`›` [`stellar-wallet-adapter`](https://github.com/OlaBakare/stellar-wallet-adapter) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add accessible fallback for unavailable wallet icons (#5)](https://github.com/OlaBakare/stellar-wallet-adapter/pull/10)<br/>
+`›` [`bloodlink`](https://github.com/hussnainahmedd/bloodlink) &nbsp;·&nbsp; `[TEST]` &nbsp;·&nbsp; [add Vitest and unit tests for 8x8 blood compatibility matrix (#5)](https://github.com/hussnainahmedd/bloodlink/pull/25)<br/>
 `›` [`beemr`](https://github.com/osmanahmadxai/beemr) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add --copy option to copy ticket to clipboard](https://github.com/osmanahmadxai/beemr/pull/7)<br/>
 `›` [`beemr`](https://github.com/osmanahmadxai/beemr) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [show estimated time remaining](https://github.com/osmanahmadxai/beemr/pull/6)<br/>
 `›` [`felege-yordanos-app`](https://github.com/Felege-Yordanos-Tech-Team/felege-yordanos-app) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add search input to desktop users table](https://github.com/Felege-Yordanos-Tech-Team/felege-yordanos-app/pull/51)<br/>
