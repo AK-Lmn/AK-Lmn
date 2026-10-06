@@ -6,13 +6,11 @@
 
 ---
 
-`›` [`foundry`](https://github.com/ConstitutiveTemplates/foundry) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [document pinned answers for presets in reference guide (#5)](https://github.com/ConstitutiveTemplates/foundry/pull/9)<br/>
 `›` [`security-actions`](https://github.com/basitalisandhu/security-actions) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add --sorted flag and LLMS-015 rule (#5)](https://github.com/basitalisandhu/security-actions/pull/9)<br/>
 `›` [`stellar-wallet-adapter`](https://github.com/OlaBakare/stellar-wallet-adapter) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add accessible fallback for unavailable wallet icons (#5)](https://github.com/OlaBakare/stellar-wallet-adapter/pull/10)<br/>
 `›` [`bloodlink`](https://github.com/hussnainahmedd/bloodlink) &nbsp;·&nbsp; `[TEST]` &nbsp;·&nbsp; [add Vitest and unit tests for 8x8 blood compatibility matrix (#5)](https://github.com/hussnainahmedd/bloodlink/pull/25)<br/>
 `›` [`beemr`](https://github.com/osmanahmadxai/beemr) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add --copy option to copy ticket to clipboard](https://github.com/osmanahmadxai/beemr/pull/7)<br/>
 `›` [`beemr`](https://github.com/osmanahmadxai/beemr) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [show estimated time remaining](https://github.com/osmanahmadxai/beemr/pull/6)<br/>
-`›` [`felege-yordanos-app`](https://github.com/Felege-Yordanos-Tech-Team/felege-yordanos-app) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add search input to desktop users table](https://github.com/Felege-Yordanos-Tech-Team/felege-yordanos-app/pull/51)<br/>
 `›` [`toolboundary`](https://github.com/Jaycubic/toolboundary) &nbsp;·&nbsp; `[TEST]` &nbsp;·&nbsp; [add fuzz and property tests for canonicalization and call binding](https://github.com/Jaycubic/toolboundary/pull/18)<br/>
 `›` [`embedcatalog`](https://github.com/embedcatalog/embedcatalog) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [Add search component to embeds page (#2)](https://github.com/embedcatalog/embedcatalog/pull/5)<br/>
 `›` [`kin-graph`](https://github.com/ch0sn/kin-graph) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [Split GEDCOM export lines over 255 characters with CONC/CONT (#22)](https://github.com/ch0sn/kin-graph/pull/23)<br/>
@@ -23,9 +21,7 @@
 `›` [`firely-cql-sdk`](https://github.com/FirelyTeam/firely-cql-sdk) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [fix TypeFoundIsNotExpected argument order and remove stray quote (#1750)](https://github.com/FirelyTeam/firely-cql-sdk/pull/1752)<br/>
 `›` [`woo-pay`](https://github.com/StaveIndustries/woo-pay) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [validate wallet address before saving (#1)](https://github.com/StaveIndustries/woo-pay/pull/21)<br/>
 `›` [`mcp-memory-service`](https://github.com/doobidoo/mcp-memory-service) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [fix commands and options in chromadb-migration.md (#1421)](https://github.com/doobidoo/mcp-memory-service/pull/1422)<br/>
-`›` [`playwright-github-actions-reporter`](https://github.com/estruyf/playwright-github-actions-reporter) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [show shard in summary title for sharded runs (#45)](https://github.com/estruyf/playwright-github-actions-reporter/pull/47)<br/>
 `›` [`fork-commit-merge`](https://github.com/fork-commit-merge/fork-commit-merge) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [style responsive card component in easy task](https://github.com/fork-commit-merge/fork-commit-merge/pull/8342)<br/>
-`›` [`staynest`](https://github.com/vikas0799/staynest) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [reject past check-in dates on frontend and backend (#2)](https://github.com/vikas0799/staynest/pull/21)<br/>
 `›` [`yasbd-lib`](https://github.com/speedyk-005/yasbd-lib) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [Address false splits by adding párrf and párr to the Spanish referenc...](https://github.com/speedyk-005/yasbd-lib/pull/355)<br/>
 `›` [`DevBoard`](https://github.com/anoopcodehack/DevBoard) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add flip animation when task status changes (#545)](https://github.com/anoopcodehack/DevBoard/pull/570)<br/>
 `›` [`DevBoard`](https://github.com/anoopcodehack/DevBoard) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [show previous assignees on task card and modal (#564)](https://github.com/anoopcodehack/DevBoard/pull/569)<br/>
