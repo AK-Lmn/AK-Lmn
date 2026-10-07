@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/%C3%A6%20contributions-22d3ee?style=for-the-badge&labelColor=0d1117&color=22d3ee&label=%C3%A6" />
+<a href="https://embedcatalog.com/hacktoberfest-2026"><img src="https://img.shields.io/badge/EmbedCatalog-Contributor-ff5c00?style=for-the-badge&labelColor=0d1117&color=ff5c00&logo=github&logoColor=white" alt="EmbedCatalog Contributor" /></a>
 
 </div>
 
