@@ -7,6 +7,7 @@
 
 ---
 
+`›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [document tdk doctor --no-ping and --ping-timeout flags (#71)](https://github.com/tdk-landscape/tdk-cli-core/pull/659)<br/>
 `›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[TEST]` &nbsp;·&nbsp; [cover env-validator utility functions (#64)](https://github.com/tdk-landscape/tdk-cli-core/pull/658)<br/>
 `›` [`understory`](https://github.com/vieanderes/understory) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add OpenAI-compatible provider for Scout (#26)](https://github.com/vieanderes/understory/pull/31)<br/>
 `›` [`avenx-js`](https://github.com/Avenx-JS/avenx-js) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [document server.headers configuration option (#1443)](https://github.com/Avenx-JS/avenx-js/pull/1447)<br/>
