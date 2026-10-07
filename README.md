@@ -7,6 +7,14 @@
 
 ---
 
+`›` [`search-index`](https://github.com/cleanor-app/search-index) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add image format demand analysis notebook (#6)](https://github.com/cleanor-app/search-index/pull/11)<br/>
+`›` [`embedcatalog`](https://github.com/embedcatalog/embedcatalog) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [make tags clickable in Other Projects section (#6)](https://github.com/embedcatalog/embedcatalog/pull/20)<br/>
+`›` [`embedcatalog`](https://github.com/embedcatalog/embedcatalog) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [make project tags clickable with search filter (#4)](https://github.com/embedcatalog/embedcatalog/pull/19)<br/>
+`›` [`vajra`](https://github.com/Ergane-Foundation/vajra) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [import Any and pass --eve-path to alert reader (#20)](https://github.com/Ergane-Foundation/vajra/pull/32)<br/>
+`›` [`backlot`](https://github.com/brekkylab/backlot) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [read first archived query parameter on object listing (#518)](https://github.com/brekkylab/backlot/pull/521)<br/>
+`›` [`search-index`](https://github.com/cleanor-app/search-index) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [check derived CSVs for share sum and rank consistency (#7)](https://github.com/cleanor-app/search-index/pull/10)<br/>
+`›` [`embedcatalog`](https://github.com/embedcatalog/embedcatalog) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [remove underline on link hover in submit page (#11)](https://github.com/embedcatalog/embedcatalog/pull/18)<br/>
+`›` [`embedcatalog`](https://github.com/embedcatalog/embedcatalog) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add scroll to top button (#7)](https://github.com/embedcatalog/embedcatalog/pull/17)<br/>
 `›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [document up, down and status flags (#72)](https://github.com/tdk-landscape/tdk-cli-core/pull/660)<br/>
 `›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [document tdk doctor --no-ping and --ping-timeout flags (#71)](https://github.com/tdk-landscape/tdk-cli-core/pull/659)<br/>
 `›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[TEST]` &nbsp;·&nbsp; [cover env-validator utility functions (#64)](https://github.com/tdk-landscape/tdk-cli-core/pull/658)<br/>
