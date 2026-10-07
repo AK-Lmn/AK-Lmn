@@ -7,6 +7,7 @@
 
 ---
 
+`›` [`avenx-js`](https://github.com/Avenx-JS/avenx-js) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [document server.headers configuration option (#1443)](https://github.com/Avenx-JS/avenx-js/pull/1447)<br/>
 `›` [`backlot`](https://github.com/brekkylab/backlot) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [jira: serverInfo lists members in real's order and places displayUrlCSMHelpSeeker before displayUrlConfluence (#516)](https://github.com/brekkylab/backlot/pull/519)<br/>
 `›` [`claudehop`](https://github.com/psychofict/claudehop) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [cache list --verify answers and add --no-cache bypass (#6)](https://github.com/psychofict/claudehop/pull/10)<br/>
 `›` [`security-actions`](https://github.com/basitalisandhu/security-actions) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add --sorted flag and LLMS-015 rule (#5)](https://github.com/basitalisandhu/security-actions/pull/9)<br/>
