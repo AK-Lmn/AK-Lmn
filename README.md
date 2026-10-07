@@ -7,6 +7,7 @@
 
 ---
 
+`›` [`flagfilter`](https://github.com/matalve/flagfilter) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [give language picker flag explicit width and height (#233)](https://github.com/matalve/flagfilter/pull/237)<br/>
 `›` [`security-actions`](https://github.com/basitalisandhu/security-actions) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add --sorted flag and LLMS-015 rule (#5)](https://github.com/basitalisandhu/security-actions/pull/9)<br/>
 `›` [`stellar-wallet-adapter`](https://github.com/OlaBakare/stellar-wallet-adapter) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add accessible fallback for unavailable wallet icons (#5)](https://github.com/OlaBakare/stellar-wallet-adapter/pull/10)<br/>
 `›` [`bloodlink`](https://github.com/hussnainahmedd/bloodlink) &nbsp;·&nbsp; `[TEST]` &nbsp;·&nbsp; [add Vitest and unit tests for 8x8 blood compatibility matrix (#5)](https://github.com/hussnainahmedd/bloodlink/pull/25)<br/>
