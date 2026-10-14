@@ -6,6 +6,7 @@
 
 ---
 
+`›` [`backlot`](https://github.com/brekkylab/backlot) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [notion: a person's person member includes email_verified](https://github.com/brekkylab/backlot/pull/635)<br/>
 `›` [`backlot`](https://github.com/brekkylab/backlot) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [s3: object GET and HEAD send default AES256 server-side encryption on...](https://github.com/brekkylab/backlot/pull/600)<br/>
 `›` [`graph`](https://github.com/sungeer/graph) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [add requirements.txt, fix uvicorn command, and update setup docs](https://github.com/sungeer/graph/pull/1)<br/>
 `›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[REFACTOR]` &nbsp;·&nbsp; [use constant for project.json file name (#905)](https://github.com/tdk-landscape/tdk-cli-core/pull/950)<br/>
