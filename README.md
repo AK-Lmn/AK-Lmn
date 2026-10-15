@@ -6,6 +6,7 @@
 
 ---
 
+`›` [`shrike`](https://github.com/SumantxD/shrike) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [stop polling for spec indefinitely and use finite backoff (#49)](https://github.com/SumantxD/shrike/pull/49)<br/>
 `›` [`backlot`](https://github.com/brekkylab/backlot) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [notion: a person's person member includes email_verified](https://github.com/brekkylab/backlot/pull/635)<br/>
 `›` [`backlot`](https://github.com/brekkylab/backlot) &nbsp;·&nbsp; `[CONTRIB]` &nbsp;·&nbsp; [s3: object GET and HEAD send default AES256 server-side encryption on...](https://github.com/brekkylab/backlot/pull/600)<br/>
 `›` [`graph`](https://github.com/sungeer/graph) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [add requirements.txt, fix uvicorn command, and update setup docs](https://github.com/sungeer/graph/pull/1)<br/>
