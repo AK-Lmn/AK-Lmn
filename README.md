@@ -16,7 +16,7 @@
 
 ---
 
-### // 01. COSMIC PROFILE
+### Profile
 
 Full-Stack Engineer, systems tinkerer, and active open-source contributor. Currently ranked **#2 in the world** on the global [TDK Landscape Hall of Fame](https://github.com/tdk-landscape/tdk-cli-core/issues/602). I engineer high-performance CLI utilities, agent architectures, resilient distributed runtimes, and accessible offline-first web applications.
 
@@ -26,34 +26,34 @@ Full-Stack Engineer, systems tinkerer, and active open-source contributor. Curre
 
 ---
 
-### // 02. FEATURED SPOTLIGHTS
+### Featured Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4 align="center"><b>📚 LibriQ</b></h4>
+      <h4 align="center"><b>LibriQ</b></h4>
       <p align="center"><i>Creator &amp; Lead Architect</i></p>
       <p>Personal 3D digital bookshelf and reading tracker. Features an interactive Three.js 3D shelf, RFC 4180 Goodreads and Kindle CSV import engine, multi-tier user profile synchronisation, and offline-first PWA caching.</p>
       <p align="center">
-        <a href="https://libriq.app"><b>🌐 Live App</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/AK-Lmn/Libriq"><b>💻 Source</b></a>
+        <a href="https://libriq.app"><b>Live App</b></a> &nbsp;·&nbsp;
+        <a href="https://github.com/AK-Lmn/Libriq"><b>Source</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center"><b>⚡ TDK CLI Core</b></h4>
+      <h4 align="center"><b>TDK CLI Core</b></h4>
       <p align="center"><i>Global #2 Contributor (6 kyu)</i></p>
       <p>Local multi-service runtime engine. Engineered the AI Agent control plane (<code>tdk mcp</code>), PostgreSQL durability session stores, standard machine envelope outputs (#707), and interactive TUI shortcuts (#456).</p>
       <p align="center">
-        <a href="https://github.com/tdk-landscape/tdk-cli-core"><b>💻 Repository</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/tdk-landscape/tdk-cli-core/issues/602"><b>🏆 Leaderboard</b></a>
+        <a href="https://github.com/tdk-landscape/tdk-cli-core"><b>Repository</b></a> &nbsp;·&nbsp;
+        <a href="https://github.com/tdk-landscape/tdk-cli-core/issues/602"><b>Leaderboard</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center"><b>🩺 Lokal.MD</b></h4>
-      <p align="center"><i>Healthcare Hackathon Finalist</i></p>
+      <h4 align="center"><b>Lokal.MD</b></h4>
+      <p align="center"><i>AppBuildersPh Hackathon Entry</i></p>
       <p>Philippine clinical EHR vault and offline Taglish speech-to-text clinical transcription system for Rural Health Units (RHU). Built with deterministic PNF drug-interaction engines and AES-256-GCM encryption.</p>
       <p align="center">
-        <b>PLDT AI in 30h Finalist</b>
+        <a href="https://github.com/AK-Lmn/lokal.md"><b>Source</b></a>
       </p>
     </td>
   </tr>
@@ -61,7 +61,7 @@ Full-Stack Engineer, systems tinkerer, and active open-source contributor. Curre
 
 ---
 
-### // 03. TECH ARSENAL
+### Tech Stack
 
 <div align="center">
 
@@ -76,7 +76,7 @@ Full-Stack Engineer, systems tinkerer, and active open-source contributor. Curre
 
 ---
 
-### // 04. STELLAR METRICS
+### Metrics & Stats
 
 <div align="center">
 
@@ -91,9 +91,9 @@ Full-Stack Engineer, systems tinkerer, and active open-source contributor. Curre
 
 ---
 
-### // 05. OPEN SOURCE CONTRIBUTIONS (GROUPED BY REPOSITORY)
+### Open Source Contributions
 
-#### ⚡ [`tdk-landscape/tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core)
+#### [`tdk-landscape/tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core)
 `›` `[FEAT]` &nbsp;·&nbsp; [press 'o' to open resource URL in browser and 'y' to copy it (#456)](https://github.com/tdk-landscape/tdk-cli-core/pull/1269)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add agent directives, skills, and agent-stack template (#1256 part D)](https://github.com/tdk-landscape/tdk-cli-core/pull/1264)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add agent control tools and CLI commands (#1256 part C)](https://github.com/tdk-landscape/tdk-cli-core/pull/1263)<br/>
@@ -112,36 +112,36 @@ Full-Stack Engineer, systems tinkerer, and active open-source contributor. Curre
 `›` `[DOCS]` &nbsp;·&nbsp; [document tdk doctor --no-ping and --ping-timeout flags](https://github.com/tdk-landscape/tdk-cli-core/pull/659)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [cover env-validator utility functions](https://github.com/tdk-landscape/tdk-cli-core/pull/658)<br/>
 
-#### 📦 [`determined-001/Quay`](https://github.com/determined-001/Quay)
+#### [`determined-001/Quay`](https://github.com/determined-001/Quay)
 `›` `[FIX]` &nbsp;·&nbsp; [stop generating DEFAULT_SELLER keys in gen-mainnet-secrets (#417)](https://github.com/determined-001/Quay/pull/426)<br/>
 `›` `[FIX]` &nbsp;·&nbsp; [validate and normalize targetCurrency on cash-out quote route (#412)](https://github.com/determined-001/Quay/pull/425)<br/>
 
-#### 🦅 [`SumantxD/shrike`](https://github.com/SumantxD/shrike)
+#### [`SumantxD/shrike`](https://github.com/SumantxD/shrike)
 `›` `[FIX]` &nbsp;·&nbsp; [stop polling for spec indefinitely and use finite backoff (#49)](https://github.com/SumantxD/shrike/pull/49)<br/>
 
-#### 🎬 [`brekkylab/backlot`](https://github.com/brekkylab/backlot)
+#### [`brekkylab/backlot`](https://github.com/brekkylab/backlot)
 `›` `[CONTRIB]` &nbsp;·&nbsp; [notion: a person's person member includes email_verified](https://github.com/brekkylab/backlot/pull/635)<br/>
 `›` `[CONTRIB]` &nbsp;·&nbsp; [s3: object GET and HEAD send default AES256 server-side encryption on...](https://github.com/brekkylab/backlot/pull/600)<br/>
 `›` `[CONTRIB]` &nbsp;·&nbsp; [jira: serverInfo lists its members in real's order](https://github.com/brekkylab/backlot/pull/519)<br/>
 
-#### 🌐 [`sungeer/graph`](https://github.com/sungeer/graph)
+#### [`sungeer/graph`](https://github.com/sungeer/graph)
 `›` `[FIX]` &nbsp;·&nbsp; [add requirements.txt, fix uvicorn command, and update setup docs](https://github.com/sungeer/graph/pull/1)<br/>
 
-#### 📋 [`anoopcodehack/DevBoard`](https://github.com/anoopcodehack/DevBoard)
+#### [`anoopcodehack/DevBoard`](https://github.com/anoopcodehack/DevBoard)
 `›` `[FEAT]` &nbsp;·&nbsp; [add flip animation when task status changes (#545)](https://github.com/anoopcodehack/DevBoard/pull/570)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [show previous assignees on task card and modal (#564)](https://github.com/anoopcodehack/DevBoard/pull/569)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add subtle status-based tints to task cards (#488)](https://github.com/anoopcodehack/DevBoard/pull/568)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [export task details as Markdown file (#526)](https://github.com/anoopcodehack/DevBoard/pull/567)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add font size toggle on code snippets (#565)](https://github.com/anoopcodehack/DevBoard/pull/566)<br/>
 
-#### 🗂️ [`embedcatalog/embedcatalog`](https://github.com/embedcatalog/embedcatalog)
+#### [`embedcatalog/embedcatalog`](https://github.com/embedcatalog/embedcatalog)
 `›` `[FEAT]` &nbsp;·&nbsp; [make tags clickable in Other Projects section](https://github.com/embedcatalog/embedcatalog/pull/20)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [make project tags clickable with search filter](https://github.com/embedcatalog/embedcatalog/pull/19)<br/>
 `›` `[FIX]` &nbsp;·&nbsp; [remove underline on link hover in submit page](https://github.com/embedcatalog/embedcatalog/pull/18)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add scroll to top button](https://github.com/embedcatalog/embedcatalog/pull/17)<br/>
 `›` `[CONTRIB]` &nbsp;·&nbsp; [Add search component to embeds page (#2)](https://github.com/embedcatalog/embedcatalog/pull/5)<br/>
 
-#### 🧭 [`FixITSukil/findmy-trail`](https://github.com/FixITSukil/findmy-trail)
+#### [`FixITSukil/findmy-trail`](https://github.com/FixITSukil/findmy-trail)
 `›` `[FIX]` &nbsp;·&nbsp; [apply focus rings, aria-labels, text contrast, and semantic close button (#27)](https://github.com/FixITSukil/findmy-trail/pull/28)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [implement live trail statistics panel inside sidebar dashboard](https://github.com/FixITSukil/findmy-trail/pull/26)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [sync map layer tiles dynamically with application theme toggle](https://github.com/FixITSukil/findmy-trail/pull/25)<br/>
@@ -151,23 +151,23 @@ Full-Stack Engineer, systems tinkerer, and active open-source contributor. Curre
 `›` `[FEAT]` &nbsp;·&nbsp; [implement full keyboard navigation and accessibility enhancements](https://github.com/FixITSukil/findmy-trail/pull/16)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [implement comprehensive Google Maps Timeline JSON parser](https://github.com/FixITSukil/findmy-trail/pull/6)<br/>
 
-#### 🧪 [`TechGenDM/OpenField`](https://github.com/TechGenDM/OpenField)
+#### [`TechGenDM/OpenField`](https://github.com/TechGenDM/OpenField)
 `›` `[FEAT]` &nbsp;·&nbsp; [add client-side markdown and json report export (#1)](https://github.com/TechGenDM/OpenField/pull/6)<br/>
 
-#### 🛡️ [`StackGuardian/tirith`](https://github.com/StackGuardian/tirith)
+#### [`StackGuardian/tirith`](https://github.com/StackGuardian/tirith)
 `›` `[TEST]` &nbsp;·&nbsp; [cover IsEmpty and IsNotEmpty on 0, False and whitespace](https://github.com/StackGuardian/tirith/pull/409)<br/>
 
-#### 🧩 [`TheVicky1/Pact_OS`](https://github.com/TheVicky1/Pact_OS)
+#### [`TheVicky1/Pact_OS`](https://github.com/TheVicky1/Pact_OS)
 `›` `[TEST]` &nbsp;·&nbsp; [write comprehensive unit test suite for number range clamp helper (#431)](https://github.com/TheVicky1/Pact_OS/pull/444)<br/>
 
-#### 🤖 [`Aditya31032006/agent-safe-migrate`](https://github.com/Aditya31032006/agent-safe-migrate)
+#### [`Aditya31032006/agent-safe-migrate`](https://github.com/Aditya31032006/agent-safe-migrate)
 `›` `[FIX]` &nbsp;·&nbsp; [detect unnamed ADD FOREIGN KEY and ADD CHECK in MG004](https://github.com/Aditya31032006/agent-safe-migrate/pull/8)<br/>
 
-#### 🔍 [`cleanor-app/search-index`](https://github.com/cleanor-app/search-index)
+#### [`cleanor-app/search-index`](https://github.com/cleanor-app/search-index)
 `›` `[FEAT]` &nbsp;·&nbsp; [add image format demand analysis notebook](https://github.com/cleanor-app/search-index/pull/11)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [check derived CSVs for share sum and rank consistency](https://github.com/cleanor-app/search-index/pull/10)<br/>
 
-#### 🚀 More Ecosystem Contributions
+#### More Ecosystem Contributions
 <details>
 <summary><b>Expand all remaining repository contributions (40+ PRs)</b></summary>
 <br/>
@@ -219,15 +219,3 @@ Full-Stack Engineer, systems tinkerer, and active open-source contributor. Curre
 `›` [`AthLead`](https://github.com/Harsh-vardhan09/AthLead) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add range hints and helper text to score input fields](https://github.com/Harsh-vardhan09/AthLead/pull/63)<br/>
 
 </details>
-
-<br/>
-
----
-
-<div align="center">
-
-```
-AK-LMN // KWANGYA CORE // CONNECTION SECURED
-```
-
-</div>
