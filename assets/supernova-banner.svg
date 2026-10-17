@@ -102,7 +102,7 @@
   <text x="600" y="165" text-anchor="middle" font-size="52" class="title" filter="url(#glow)">AK-LMN // SUPERNOVA</text>
 
   <!-- Subtitle -->
-  <text x="600" y="210" text-anchor="middle" class="subtitle">FULL-STACK ENGINEER &nbsp;·&nbsp; OPEN-SOURCE CONTRIBUTOR &nbsp;·&nbsp; BUILDER</text>
+  <text x="600" y="210" text-anchor="middle" class="subtitle">FULL-STACK ENGINEER  ·  OPEN-SOURCE CONTRIBUTOR  ·  BUILDER</text>
 
   <!-- Metric Pills Row -->
   <g transform="translate(600, 275)">
