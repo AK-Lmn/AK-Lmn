@@ -1,6 +1,6 @@
 <div align="center">
 
-![AK-LMN // SUPERNOVA](./assets/supernova-banner.svg)
+<img src="https://raw.githubusercontent.com/AK-Lmn/AK-Lmn/main/assets/supernova-banner.svg" alt="AK-LMN // SUPERNOVA" width="100%" />
 
 <br/>
 
