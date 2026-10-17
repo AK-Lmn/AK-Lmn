@@ -96,6 +96,10 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 ### Open Source Contributions
 
 #### [`tdk-landscape/tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core)
+`›` `[DOCS]` &nbsp;·&nbsp; [structure framework version table and tidy spacing (#813)](https://github.com/tdk-landscape/tdk-cli-core/pull/1353)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [document resource features and featuresEnabled array (#127)](https://github.com/tdk-landscape/tdk-cli-core/pull/1351)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [write docs/how-tdk-up-works.md explaining lifecycle, flags, and down (#101)](https://github.com/tdk-landscape/tdk-cli-core/pull/1350)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [write docs/ARCHITECTURE.md explaining CLI, engine, and discovery (#99)](https://github.com/tdk-landscape/tdk-cli-core/pull/1349)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add node as a native backend language provider (#110)](https://github.com/tdk-landscape/tdk-cli-core/pull/1276)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [press 'o' to open resource URL in browser and 'y' to copy it (#456)](https://github.com/tdk-landscape/tdk-cli-core/pull/1269)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add agent directives, skills, and agent-stack template (#1256 part D)](https://github.com/tdk-landscape/tdk-cli-core/pull/1264)<br/>
