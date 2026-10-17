@@ -6,6 +6,7 @@
 
 ---
 
+`›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add agent directives, skills, and agent-stack template (#1256 part D)](https://github.com/tdk-landscape/tdk-cli-core/pull/1264)<br/>
 `›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add agent control tools and CLI commands (#1256 part C)](https://github.com/tdk-landscape/tdk-cli-core/pull/1263)<br/>
 `›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add postgres durability session store (#1256)](https://github.com/tdk-landscape/tdk-cli-core/pull/1262)<br/>
 `›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[REFACTOR]` &nbsp;·&nbsp; [standardise machine envelope construction in machine-output (#707)](https://github.com/tdk-landscape/tdk-cli-core/pull/1261)<br/>
