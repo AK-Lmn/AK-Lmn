@@ -18,11 +18,13 @@
 
 ### Profile
 
-Full-Stack Engineer, systems tinkerer, and active open-source contributor. Currently ranked **#2 in the world** on the global [TDK Landscape Hall of Fame](https://github.com/tdk-landscape/tdk-cli-core/issues/602). I engineer high-performance CLI utilities, agent architectures, resilient distributed runtimes, and accessible offline-first web applications.
+Full-Stack Developer and open-source contributor based in the Philippines. I build web applications and developer tools, with a strong focus on clean architecture, practical utility, and solid user experiences.
 
-- **Focus Areas**: Distributed Developer Tooling, AI Agent Control Planes (MCP), Full-Stack Systems, and Offline-First PWAs.
-- **Fellowships & Honors**: AWS re/Start Cloud Scholar · DataCamp AI & Data Science Scholar.
-- **Current Mission**: Scaling developer toolchain productivity and climbing to #1 on the TDK Leaderboard.
+Most of my time is split between building [LibriQ](https://libriq.app) (an offline-first 3D digital bookshelf and reading tracker) and contributing to developer tooling across open-source projects on GitHub.
+
+- **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
+- **Projects**: Creator of [LibriQ](https://libriq.app) and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
+- **Open Source**: 90+ merged PRs across open-source ecosystems; ranked #2 on the [TDK Landscape](https://github.com/tdk-landscape/tdk-cli-core/issues/602) leaderboard.
 
 ---
 
