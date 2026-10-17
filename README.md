@@ -10,7 +10,7 @@
 
 <br/>
 
-> *"Su-su-su-supernova"*
+> *Su-su-su-supernova*
 
 </div>
 
