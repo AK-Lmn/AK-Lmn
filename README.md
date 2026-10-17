@@ -20,7 +20,7 @@
 
 Full-Stack Developer and open-source contributor based in the Philippines. I build web applications and developer tools, with a strong focus on clean architecture, practical utility, and solid user experiences.
 
-Most of my time is split between building [LibriQ](https://libriq.app) (an offline-first 3D digital bookshelf and reading tracker) and contributing to developer tooling across open-source projects on GitHub.
+Most of my time is split between building [LibriQ](https://libriq.app) (a digital library and reading log) and contributing to developer tooling across open-source projects on GitHub.
 
 - **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
 - **Projects**: Creator of [LibriQ](https://libriq.app) and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
