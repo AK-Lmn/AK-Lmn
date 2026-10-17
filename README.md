@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AK-Lmn?style=for-the-badge&logo=github&labelColor=07080f&color=8b5cf6&label=SYNK%20FOLLOWERS)](https://github.com/AK-Lmn)
 [![TDK Hall of Fame](https://img.shields.io/badge/TDK%20HALL%20OF%20FAME-GLOBAL%20%232-06b6d4?style=for-the-badge&logo=target&labelColor=07080f)](https://github.com/tdk-landscape/tdk-cli-core/issues/602)
-[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-94%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
+[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-95%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 
 <br/>
 
@@ -24,7 +24,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 - **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
 - **Projects**: Creator of [LibriQ](https://libriq.app) and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
-- **Open Source**: 94+ merged PRs across open-source ecosystems; ranked #2 on the [TDK Landscape](https://github.com/tdk-landscape/tdk-cli-core/issues/602) leaderboard.
+- **Open Source**: 95+ merged PRs across open-source ecosystems; ranked #2 on the [TDK Landscape](https://github.com/tdk-landscape/tdk-cli-core/issues/602) leaderboard.
 
 ---
 
@@ -43,7 +43,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
     </td>
     <td width="33%" valign="top">
       <h4 align="center"><b>TDK CLI Core</b></h4>
-      <p align="center"><i>Global #2 Contributor (5 kyu)</i></p>
+      <p align="center"><i>Global #2 Contributor (4 kyu)</i></p>
       <p>Local multi-service runtime engine. Engineered the AI Agent control plane (<code>tdk mcp</code>), PostgreSQL durability session stores, standard machine envelope outputs (#707), native Node provider (#110), and interactive TUI shortcuts (#456).</p>
       <p align="center">
         <a href="https://github.com/tdk-landscape/tdk-cli-core"><b>Repository</b></a> &nbsp;·&nbsp;
@@ -96,6 +96,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 ### Open Source Contributions
 
 #### [`tdk-landscape/tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core)
+`›` `[FEAT]` &nbsp;·&nbsp; [enforce core version gate and upgrade recommendation (#634)](https://github.com/tdk-landscape/tdk-cli-core/pull/1365)<br/>
 `›` `[DOCS]` &nbsp;·&nbsp; [structure framework version table and tidy spacing (#813)](https://github.com/tdk-landscape/tdk-cli-core/pull/1353)<br/>
 `›` `[DOCS]` &nbsp;·&nbsp; [document resource features and featuresEnabled array (#127)](https://github.com/tdk-landscape/tdk-cli-core/pull/1351)<br/>
 `›` `[DOCS]` &nbsp;·&nbsp; [write docs/how-tdk-up-works.md explaining lifecycle, flags, and down (#101)](https://github.com/tdk-landscape/tdk-cli-core/pull/1350)<br/>
