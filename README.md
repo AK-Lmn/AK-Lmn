@@ -6,6 +6,7 @@
 
 ---
 
+`›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add agent control tools and CLI commands (#1256 part C)](https://github.com/tdk-landscape/tdk-cli-core/pull/1263)<br/>
 `›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add postgres durability session store (#1256)](https://github.com/tdk-landscape/tdk-cli-core/pull/1262)<br/>
 `›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[REFACTOR]` &nbsp;·&nbsp; [standardise machine envelope construction in machine-output (#707)](https://github.com/tdk-landscape/tdk-cli-core/pull/1261)<br/>
 `›` [`tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [position TDK for the AI-agent era (#1256 part A)](https://github.com/tdk-landscape/tdk-cli-core/pull/1260)<br/>
