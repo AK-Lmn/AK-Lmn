@@ -10,7 +10,7 @@
 
 <br/>
 
-> *"Drop it like a bomb, bring the light in. All possibilities open up when the core ignites."*
+> *"Su-su-su-supernova"*
 
 </div>
 
