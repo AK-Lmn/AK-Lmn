@@ -43,8 +43,8 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
     </td>
     <td width="33%" valign="top">
       <h4 align="center"><b>TDK CLI Core</b></h4>
-      <p align="center"><i>Global #2 Contributor (6 kyu)</i></p>
-      <p>Local multi-service runtime engine. Engineered the AI Agent control plane (<code>tdk mcp</code>), PostgreSQL durability session stores, standard machine envelope outputs (#707), and interactive TUI shortcuts (#456).</p>
+      <p align="center"><i>Global #2 Contributor (5 kyu)</i></p>
+      <p>Local multi-service runtime engine. Engineered the AI Agent control plane (<code>tdk mcp</code>), PostgreSQL durability session stores, standard machine envelope outputs (#707), native Node provider (#110), and interactive TUI shortcuts (#456).</p>
       <p align="center">
         <a href="https://github.com/tdk-landscape/tdk-cli-core"><b>Repository</b></a> &nbsp;·&nbsp;
         <a href="https://github.com/tdk-landscape/tdk-cli-core/issues/602"><b>Leaderboard</b></a>
@@ -96,6 +96,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 ### Open Source Contributions
 
 #### [`tdk-landscape/tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core)
+`›` `[FEAT]` &nbsp;·&nbsp; [add node as a native backend language provider (#110)](https://github.com/tdk-landscape/tdk-cli-core/pull/1276)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [press 'o' to open resource URL in browser and 'y' to copy it (#456)](https://github.com/tdk-landscape/tdk-cli-core/pull/1269)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add agent directives, skills, and agent-stack template (#1256 part D)](https://github.com/tdk-landscape/tdk-cli-core/pull/1264)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add agent control tools and CLI commands (#1256 part C)](https://github.com/tdk-landscape/tdk-cli-core/pull/1263)<br/>
