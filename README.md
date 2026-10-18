@@ -96,6 +96,10 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 ### Open Source Contributions
 
 #### [`tdk-landscape/tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core)
+`›` `[REFACTOR]` &nbsp;·&nbsp; [standardise error message style and document exit code rules (#708)](https://github.com/tdk-landscape/tdk-cli-core/pull/1620)<br/>
+`›` `[REFACTOR]` &nbsp;·&nbsp; [standardise -y/--yes and --force flags across commands (#706)](https://github.com/tdk-landscape/tdk-cli-core/pull/1619)<br/>
+`›` `[FEAT]` &nbsp;·&nbsp; [add --all flag with Machine/Project sections and summary (#86)](https://github.com/tdk-landscape/tdk-cli-core/pull/1618)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [verify --json check shapes and document flag in cli/README.md (#87)](https://github.com/tdk-landscape/tdk-cli-core/pull/1617)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [enforce core version gate and upgrade recommendation (#634)](https://github.com/tdk-landscape/tdk-cli-core/pull/1365)<br/>
 `›` `[DOCS]` &nbsp;·&nbsp; [structure framework version table and tidy spacing (#813)](https://github.com/tdk-landscape/tdk-cli-core/pull/1353)<br/>
 `›` `[DOCS]` &nbsp;·&nbsp; [document resource features and featuresEnabled array (#127)](https://github.com/tdk-landscape/tdk-cli-core/pull/1351)<br/>
