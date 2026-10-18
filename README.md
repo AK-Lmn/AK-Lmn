@@ -124,6 +124,9 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 `›` `[FIX]` &nbsp;·&nbsp; [stop generating DEFAULT_SELLER keys in gen-mainnet-secrets (#417)](https://github.com/determined-001/Quay/pull/426)<br/>
 `›` `[FIX]` &nbsp;·&nbsp; [validate and normalize targetCurrency on cash-out quote route (#412)](https://github.com/determined-001/Quay/pull/425)<br/>
 
+#### [`nikolas-sapa/ns-ui`](https://github.com/nikolas-sapa/ns-ui)
+`›` `[DOCS]` &nbsp;·&nbsp; [refresh stale component counts in live code comments (#87)](https://github.com/nikolas-sapa/ns-ui/pull/87)<br/>
+
 #### [`SumantxD/shrike`](https://github.com/SumantxD/shrike)
 `›` `[FIX]` &nbsp;·&nbsp; [stop polling for spec indefinitely and use finite backoff (#49)](https://github.com/SumantxD/shrike/pull/49)<br/>
 
@@ -184,7 +187,6 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 `›` [`flathub-infra/website`](https://github.com/flathub-infra/website) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [Change "Downloads over time" chart to show monthly data instead of daily](https://github.com/flathub-infra/website/pull/7237)<br/>
 `›` [`JohnMwendwa/vet-management-system`](https://github.com/JohnMwendwa/vet-management-system) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add pagination in clients and employees routes](https://github.com/JohnMwendwa/vet-management-system/pull/91)<br/>
 `›` [`OlaBakare/stellar-wallet-adapter`](https://github.com/OlaBakare/stellar-wallet-adapter) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add accessible fallback for unavailable wallet icons (#5)](https://github.com/OlaBakare/stellar-wallet-adapter/pull/10)<br/>
-`›` [`nikolas-sapa/ns-ui`](https://github.com/nikolas-sapa/ns-ui) &nbsp;·&nbsp; `[DOCS]` &nbsp;·&nbsp; [refresh stale component counts in live code comments](https://github.com/nikolas-sapa/ns-ui/pull/87)<br/>
 `›` [`Prism-platform`](https://github.com/NovaCode37/Prism-platform) &nbsp;·&nbsp; `[CI]` &nbsp;·&nbsp; [group dependabot minor and patch updates per ecosystem](https://github.com/NovaCode37/Prism-platform/pull/517)<br/>
 `›` [`booth`](https://github.com/Vedantgitbot/booth) &nbsp;·&nbsp; `[FEAT]` &nbsp;·&nbsp; [add py.typed marker and package data (PEP 561)](https://github.com/Vedantgitbot/booth/pull/16)<br/>
 `›` [`vajra`](https://github.com/Ergane-Foundation/vajra) &nbsp;·&nbsp; `[FIX]` &nbsp;·&nbsp; [import Any and pass --eve-path to alert reader](https://github.com/Ergane-Foundation/vajra/pull/32)<br/>
