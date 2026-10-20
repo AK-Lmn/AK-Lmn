@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AK-Lmn?style=for-the-badge&logo=github&labelColor=07080f&color=8b5cf6&label=SYNK%20FOLLOWERS)](https://github.com/AK-Lmn)
 [![TDK Hall of Fame](https://img.shields.io/badge/TDK%20HALL%20OF%20FAME-GLOBAL%20%232-06b6d4?style=for-the-badge&logo=target&labelColor=07080f)](https://github.com/tdk-landscape/tdk-cli-core/issues/602)
-[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-95%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
+[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-105%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/AK-Lmn/badge.svg)](https://hub.xerj.org/contributors/AK-Lmn)
 
@@ -26,7 +26,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 - **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
 - **Projects**: Creator of [LibriQ](https://libriq.app) and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
-- **Open Source**: 95+ merged PRs across open-source ecosystems; ranked #2 on the [TDK Landscape](https://github.com/tdk-landscape/tdk-cli-core/issues/602) leaderboard.
+- **Open Source**: 105+ merged PRs across open-source ecosystems; ranked #2 on the [TDK Landscape](https://github.com/tdk-landscape/tdk-cli-core/issues/602) leaderboard.
 - **Recognition**: Selected by the [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
 
 ---
@@ -99,6 +99,19 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 ### Open Source Contributions
 
 #### [`tdk-landscape/tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core)
+`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for generator extension fetcher (#1571)](https://github.com/tdk-landscape/tdk-cli-core/pull/1769)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for cache module (#1570)](https://github.com/tdk-landscape/tdk-cli-core/pull/1754)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for doctor command (#1569)](https://github.com/tdk-landscape/tdk-cli-core/pull/1742)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for config-cleaner (#1568)](https://github.com/tdk-landscape/tdk-cli-core/pull/1741)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for clean-cli (#1567)](https://github.com/tdk-landscape/tdk-cli-core/pull/1740)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for manifest-cleaner (#1566)](https://github.com/tdk-landscape/tdk-cli-core/pull/1738)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for file-utils (#1565)](https://github.com/tdk-landscape/tdk-cli-core/pull/1736)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for env-loader (#1564)](https://github.com/tdk-landscape/tdk-cli-core/pull/1733)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for base-cleaner (#1563)](https://github.com/tdk-landscape/tdk-cli-core/pull/1731)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for alias-resolver (#1562)](https://github.com/tdk-landscape/tdk-cli-core/pull/1728)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [write docs/comparison.md comparing TDK with alternative dev tools (#105)](https://github.com/tdk-landscape/tdk-cli-core/pull/1684)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [add getting help, supported platforms, and TOC to CONTRIBUTING (#98)](https://github.com/tdk-landscape/tdk-cli-core/pull/1683)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [add root AGENTS.md for AI coding agents (#92)](https://github.com/tdk-landscape/tdk-cli-core/pull/1682)<br/>
 `›` `[REFACTOR]` &nbsp;·&nbsp; [standardise error message style and document exit code rules (#708)](https://github.com/tdk-landscape/tdk-cli-core/pull/1620)<br/>
 `›` `[REFACTOR]` &nbsp;·&nbsp; [standardise -y/--yes and --force flags across commands (#706)](https://github.com/tdk-landscape/tdk-cli-core/pull/1619)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add --all flag with Machine/Project sections and summary (#86)](https://github.com/tdk-landscape/tdk-cli-core/pull/1618)<br/>
@@ -126,6 +139,9 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 `›` `[DOCS]` &nbsp;·&nbsp; [document up, down and status flags](https://github.com/tdk-landscape/tdk-cli-core/pull/660)<br/>
 `›` `[DOCS]` &nbsp;·&nbsp; [document tdk doctor --no-ping and --ping-timeout flags](https://github.com/tdk-landscape/tdk-cli-core/pull/659)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [cover env-validator utility functions](https://github.com/tdk-landscape/tdk-cli-core/pull/658)<br/>
+
+#### [`oll4com/spaceapp`](https://github.com/oll4com/spaceapp)
+`›` `[FEAT]` &nbsp;·&nbsp; [connect API, workflow, child-workflow and activity spans over OTLP (#61)](https://github.com/oll4com/spaceapp/pull/217)<br/>
 
 #### [`determined-001/Quay`](https://github.com/determined-001/Quay)
 `›` `[FIX]` &nbsp;·&nbsp; [stop generating DEFAULT_SELLER keys in gen-mainnet-secrets (#417)](https://github.com/determined-001/Quay/pull/426)<br/>
