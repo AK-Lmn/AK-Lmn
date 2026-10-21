@@ -5,8 +5,8 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/AK-Lmn?style=for-the-badge&logo=github&labelColor=07080f&color=8b5cf6&label=SYNK%20FOLLOWERS)](https://github.com/AK-Lmn)
-[![TDK Hall of Fame](https://img.shields.io/badge/TDK%20HALL%20OF%20FAME-GLOBAL%20%232-06b6d4?style=for-the-badge&logo=target&labelColor=07080f)](https://github.com/tdk-landscape/tdk-cli-core/issues/602)
-[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-110%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
+[![Flisk Hall of Fame](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-GLOBAL%20%232-06b6d4?style=for-the-badge&logo=target&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/602)
+[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-112%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/AK-Lmn/badge.svg)](https://hub.xerj.org/contributors/AK-Lmn)
 
@@ -26,7 +26,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 - **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
 - **Projects**: Creator of [LibriQ](https://libriq.app) and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
-- **Open Source**: 110+ merged PRs across open-source ecosystems; ranked #2 on the [TDK Landscape](https://github.com/tdk-landscape/tdk-cli-core/issues/602) leaderboard.
+- **Open Source**: 112+ merged PRs across open-source ecosystems; ranked #2 on the [Flisk Landscape](https://github.com/flisk-sh/flisk/issues/602) leaderboard.
 - **Recognition**: Selected by the [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
 
 ---
@@ -45,12 +45,12 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
       </p>
     </td>
     <td width="33%" valign="top">
-      <h4 align="center"><b>TDK CLI Core</b></h4>
+      <h4 align="center"><b>Flisk CLI Core</b></h4>
       <p align="center"><i>Global #2 Contributor (4 kyu)</i></p>
       <p>Local multi-service runtime engine. Engineered the AI Agent control plane (<code>tdk mcp</code>), PostgreSQL durability session stores, standard machine envelope outputs (#707), native Node provider (#110), and interactive TUI shortcuts (#456).</p>
       <p align="center">
-        <a href="https://github.com/tdk-landscape/tdk-cli-core"><b>Repository</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/tdk-landscape/tdk-cli-core/issues/602"><b>Leaderboard</b></a>
+        <a href="https://github.com/flisk-sh/flisk"><b>Repository</b></a> &nbsp;·&nbsp;
+        <a href="https://github.com/flisk-sh/flisk/issues/602"><b>Leaderboard</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -98,47 +98,49 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 ### Open Source Contributions
 
-#### [`tdk-landscape/tdk-cli-core`](https://github.com/tdk-landscape/tdk-cli-core)
-`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for generator extension fetcher (#1571)](https://github.com/tdk-landscape/tdk-cli-core/pull/1769)<br/>
-`›` `[TEST]` &nbsp;·&nbsp; [add unit test for cache module (#1570)](https://github.com/tdk-landscape/tdk-cli-core/pull/1754)<br/>
-`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for doctor command (#1569)](https://github.com/tdk-landscape/tdk-cli-core/pull/1742)<br/>
-`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for config-cleaner (#1568)](https://github.com/tdk-landscape/tdk-cli-core/pull/1741)<br/>
-`›` `[TEST]` &nbsp;·&nbsp; [add unit test for clean-cli (#1567)](https://github.com/tdk-landscape/tdk-cli-core/pull/1740)<br/>
-`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for manifest-cleaner (#1566)](https://github.com/tdk-landscape/tdk-cli-core/pull/1738)<br/>
-`›` `[TEST]` &nbsp;·&nbsp; [add unit test for file-utils (#1565)](https://github.com/tdk-landscape/tdk-cli-core/pull/1736)<br/>
-`›` `[TEST]` &nbsp;·&nbsp; [add unit test for env-loader (#1564)](https://github.com/tdk-landscape/tdk-cli-core/pull/1733)<br/>
-`›` `[TEST]` &nbsp;·&nbsp; [add unit test for base-cleaner (#1563)](https://github.com/tdk-landscape/tdk-cli-core/pull/1731)<br/>
-`›` `[TEST]` &nbsp;·&nbsp; [add unit test for alias-resolver (#1562)](https://github.com/tdk-landscape/tdk-cli-core/pull/1728)<br/>
-`›` `[DOCS]` &nbsp;·&nbsp; [write docs/comparison.md comparing TDK with alternative dev tools (#105)](https://github.com/tdk-landscape/tdk-cli-core/pull/1684)<br/>
-`›` `[DOCS]` &nbsp;·&nbsp; [add getting help, supported platforms, and TOC to CONTRIBUTING (#98)](https://github.com/tdk-landscape/tdk-cli-core/pull/1683)<br/>
-`›` `[DOCS]` &nbsp;·&nbsp; [add root AGENTS.md for AI coding agents (#92)](https://github.com/tdk-landscape/tdk-cli-core/pull/1682)<br/>
-`›` `[REFACTOR]` &nbsp;·&nbsp; [standardise error message style and document exit code rules (#708)](https://github.com/tdk-landscape/tdk-cli-core/pull/1620)<br/>
-`›` `[REFACTOR]` &nbsp;·&nbsp; [standardise -y/--yes and --force flags across commands (#706)](https://github.com/tdk-landscape/tdk-cli-core/pull/1619)<br/>
-`›` `[FEAT]` &nbsp;·&nbsp; [add --all flag with Machine/Project sections and summary (#86)](https://github.com/tdk-landscape/tdk-cli-core/pull/1618)<br/>
-`›` `[TEST]` &nbsp;·&nbsp; [verify --json check shapes and document flag in cli/README.md (#87)](https://github.com/tdk-landscape/tdk-cli-core/pull/1617)<br/>
-`›` `[FEAT]` &nbsp;·&nbsp; [enforce core version gate and upgrade recommendation (#634)](https://github.com/tdk-landscape/tdk-cli-core/pull/1365)<br/>
-`›` `[DOCS]` &nbsp;·&nbsp; [structure framework version table and tidy spacing (#813)](https://github.com/tdk-landscape/tdk-cli-core/pull/1353)<br/>
-`›` `[DOCS]` &nbsp;·&nbsp; [document resource features and featuresEnabled array (#127)](https://github.com/tdk-landscape/tdk-cli-core/pull/1351)<br/>
-`›` `[DOCS]` &nbsp;·&nbsp; [write docs/how-tdk-up-works.md explaining lifecycle, flags, and down (#101)](https://github.com/tdk-landscape/tdk-cli-core/pull/1350)<br/>
-`›` `[DOCS]` &nbsp;·&nbsp; [write docs/ARCHITECTURE.md explaining CLI, engine, and discovery (#99)](https://github.com/tdk-landscape/tdk-cli-core/pull/1349)<br/>
-`›` `[FEAT]` &nbsp;·&nbsp; [add node as a native backend language provider (#110)](https://github.com/tdk-landscape/tdk-cli-core/pull/1276)<br/>
-`›` `[FEAT]` &nbsp;·&nbsp; [press 'o' to open resource URL in browser and 'y' to copy it (#456)](https://github.com/tdk-landscape/tdk-cli-core/pull/1269)<br/>
-`›` `[FEAT]` &nbsp;·&nbsp; [add agent directives, skills, and agent-stack template (#1256 part D)](https://github.com/tdk-landscape/tdk-cli-core/pull/1264)<br/>
-`›` `[FEAT]` &nbsp;·&nbsp; [add agent control tools and CLI commands (#1256 part C)](https://github.com/tdk-landscape/tdk-cli-core/pull/1263)<br/>
-`›` `[FEAT]` &nbsp;·&nbsp; [add postgres durability session store (#1256)](https://github.com/tdk-landscape/tdk-cli-core/pull/1262)<br/>
-`›` `[REFACTOR]` &nbsp;·&nbsp; [standardise machine envelope construction in machine-output (#707)](https://github.com/tdk-landscape/tdk-cli-core/pull/1261)<br/>
-`›` `[DOCS]` &nbsp;·&nbsp; [position TDK for the AI-agent era (#1256 part A)](https://github.com/tdk-landscape/tdk-cli-core/pull/1260)<br/>
-`›` `[DOCS]` &nbsp;·&nbsp; [document tdk up --json readiness result contract (#1195)](https://github.com/tdk-landscape/tdk-cli-core/pull/1226)<br/>
-`›` `[FIX]` &nbsp;·&nbsp; [do not pass --force to tilt down (#1216)](https://github.com/tdk-landscape/tdk-cli-core/pull/1225)<br/>
-`›` `[REFACTOR]` &nbsp;·&nbsp; [use constant for project.json file name (#905)](https://github.com/tdk-landscape/tdk-cli-core/pull/950)<br/>
-`›` `[REFACTOR]` &nbsp;·&nbsp; [use constant for TILT_TECH_STACK.star file name (#908)](https://github.com/tdk-landscape/tdk-cli-core/pull/949)<br/>
-`›` `[REFACTOR]` &nbsp;·&nbsp; [use constant for TILT_RESOURCE_DEFAULTS.star file name (#909)](https://github.com/tdk-landscape/tdk-cli-core/pull/948)<br/>
-`›` `[REFACTOR]` &nbsp;·&nbsp; [use constant for .autogenerated directory name (#907)](https://github.com/tdk-landscape/tdk-cli-core/pull/947)<br/>
-`›` `[REFACTOR]` &nbsp;·&nbsp; [constant for the package.json file name (#906)](https://github.com/tdk-landscape/tdk-cli-core/pull/946)<br/>
-`›` `[REFACTOR]` &nbsp;·&nbsp; [constant for the docker-compose.yml file name (#910)](https://github.com/tdk-landscape/tdk-cli-core/pull/945)<br/>
-`›` `[DOCS]` &nbsp;·&nbsp; [document up, down and status flags](https://github.com/tdk-landscape/tdk-cli-core/pull/660)<br/>
-`›` `[DOCS]` &nbsp;·&nbsp; [document tdk doctor --no-ping and --ping-timeout flags](https://github.com/tdk-landscape/tdk-cli-core/pull/659)<br/>
-`›` `[TEST]` &nbsp;·&nbsp; [cover env-validator utility functions](https://github.com/tdk-landscape/tdk-cli-core/pull/658)<br/>
+#### [`flisk-sh/flisk`](https://github.com/flisk-sh/flisk)
+`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for services metadata, stack metadata, and discovery problems (#1583)](https://github.com/flisk-sh/flisk/pull/1808)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for startup report dependency cycles and empty payloads (#1578)](https://github.com/flisk-sh/flisk/pull/1809)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for generator extension fetcher (#1571)](https://github.com/flisk-sh/flisk/pull/1769)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for cache module (#1570)](https://github.com/flisk-sh/flisk/pull/1754)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for doctor command (#1569)](https://github.com/flisk-sh/flisk/pull/1742)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for config-cleaner (#1568)](https://github.com/flisk-sh/flisk/pull/1741)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for clean-cli (#1567)](https://github.com/flisk-sh/flisk/pull/1740)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit tests for manifest-cleaner (#1566)](https://github.com/flisk-sh/flisk/pull/1738)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for file-utils (#1565)](https://github.com/flisk-sh/flisk/pull/1736)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for env-loader (#1564)](https://github.com/flisk-sh/flisk/pull/1733)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for base-cleaner (#1563)](https://github.com/flisk-sh/flisk/pull/1731)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add unit test for alias-resolver (#1562)](https://github.com/flisk-sh/flisk/pull/1728)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [write docs/comparison.md comparing TDK with alternative dev tools (#105)](https://github.com/flisk-sh/flisk/pull/1684)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [add getting help, supported platforms, and TOC to CONTRIBUTING (#98)](https://github.com/flisk-sh/flisk/pull/1683)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [add root AGENTS.md for AI coding agents (#92)](https://github.com/flisk-sh/flisk/pull/1682)<br/>
+`›` `[REFACTOR]` &nbsp;·&nbsp; [standardise error message style and document exit code rules (#708)](https://github.com/flisk-sh/flisk/pull/1620)<br/>
+`›` `[REFACTOR]` &nbsp;·&nbsp; [standardise -y/--yes and --force flags across commands (#706)](https://github.com/flisk-sh/flisk/pull/1619)<br/>
+`›` `[FEAT]` &nbsp;·&nbsp; [add --all flag with Machine/Project sections and summary (#86)](https://github.com/flisk-sh/flisk/pull/1618)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [verify --json check shapes and document flag in cli/README.md (#87)](https://github.com/flisk-sh/flisk/pull/1617)<br/>
+`›` `[FEAT]` &nbsp;·&nbsp; [enforce core version gate and upgrade recommendation (#634)](https://github.com/flisk-sh/flisk/pull/1365)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [structure framework version table and tidy spacing (#813)](https://github.com/flisk-sh/flisk/pull/1353)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [document resource features and featuresEnabled array (#127)](https://github.com/flisk-sh/flisk/pull/1351)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [write docs/how-tdk-up-works.md explaining lifecycle, flags, and down (#101)](https://github.com/flisk-sh/flisk/pull/1350)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [write docs/ARCHITECTURE.md explaining CLI, engine, and discovery (#99)](https://github.com/flisk-sh/flisk/pull/1349)<br/>
+`›` `[FEAT]` &nbsp;·&nbsp; [add node as a native backend language provider (#110)](https://github.com/flisk-sh/flisk/pull/1276)<br/>
+`›` `[FEAT]` &nbsp;·&nbsp; [press 'o' to open resource URL in browser and 'y' to copy it (#456)](https://github.com/flisk-sh/flisk/pull/1269)<br/>
+`›` `[FEAT]` &nbsp;·&nbsp; [add agent directives, skills, and agent-stack template (#1256 part D)](https://github.com/flisk-sh/flisk/pull/1264)<br/>
+`›` `[FEAT]` &nbsp;·&nbsp; [add agent control tools and CLI commands (#1256 part C)](https://github.com/flisk-sh/flisk/pull/1263)<br/>
+`›` `[FEAT]` &nbsp;·&nbsp; [add postgres durability session store (#1256)](https://github.com/flisk-sh/flisk/pull/1262)<br/>
+`›` `[REFACTOR]` &nbsp;·&nbsp; [standardise machine envelope construction in machine-output (#707)](https://github.com/flisk-sh/flisk/pull/1261)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [position TDK for the AI-agent era (#1256 part A)](https://github.com/flisk-sh/flisk/pull/1260)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [document tdk up --json readiness result contract (#1195)](https://github.com/flisk-sh/flisk/pull/1226)<br/>
+`›` `[FIX]` &nbsp;·&nbsp; [do not pass --force to tilt down (#1216)](https://github.com/flisk-sh/flisk/pull/1225)<br/>
+`›` `[REFACTOR]` &nbsp;·&nbsp; [use constant for project.json file name (#905)](https://github.com/flisk-sh/flisk/pull/950)<br/>
+`›` `[REFACTOR]` &nbsp;·&nbsp; [use constant for TILT_TECH_STACK.star file name (#908)](https://github.com/flisk-sh/flisk/pull/949)<br/>
+`›` `[REFACTOR]` &nbsp;·&nbsp; [use constant for TILT_RESOURCE_DEFAULTS.star file name (#909)](https://github.com/flisk-sh/flisk/pull/948)<br/>
+`›` `[REFACTOR]` &nbsp;·&nbsp; [use constant for .autogenerated directory name (#907)](https://github.com/flisk-sh/flisk/pull/947)<br/>
+`›` `[REFACTOR]` &nbsp;·&nbsp; [constant for the package.json file name (#906)](https://github.com/flisk-sh/flisk/pull/946)<br/>
+`›` `[REFACTOR]` &nbsp;·&nbsp; [constant for the docker-compose.yml file name (#910)](https://github.com/flisk-sh/flisk/pull/945)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [document up, down and status flags](https://github.com/flisk-sh/flisk/pull/660)<br/>
+`›` `[DOCS]` &nbsp;·&nbsp; [document tdk doctor --no-ping and --ping-timeout flags](https://github.com/flisk-sh/flisk/pull/659)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [cover env-validator utility functions](https://github.com/flisk-sh/flisk/pull/658)<br/>
 
 #### [`oll4com/spaceapp`](https://github.com/oll4com/spaceapp)
 `›` `[FEAT]` &nbsp;·&nbsp; [connect API, workflow, child-workflow and activity spans over OTLP (#61)](https://github.com/oll4com/spaceapp/pull/217)<br/>
