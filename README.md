@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AK-Lmn?style=for-the-badge&logo=github&labelColor=07080f&color=8b5cf6&label=SYNK%20FOLLOWERS)](https://github.com/AK-Lmn)
 [![TDK Hall of Fame](https://img.shields.io/badge/TDK%20HALL%20OF%20FAME-GLOBAL%20%232-06b6d4?style=for-the-badge&logo=target&labelColor=07080f)](https://github.com/tdk-landscape/tdk-cli-core/issues/602)
-[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-105%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
+[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-110%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/AK-Lmn/badge.svg)](https://hub.xerj.org/contributors/AK-Lmn)
 
@@ -26,7 +26,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 - **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
 - **Projects**: Creator of [LibriQ](https://libriq.app) and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
-- **Open Source**: 105+ merged PRs across open-source ecosystems; ranked #2 on the [TDK Landscape](https://github.com/tdk-landscape/tdk-cli-core/issues/602) leaderboard.
+- **Open Source**: 110+ merged PRs across open-source ecosystems; ranked #2 on the [TDK Landscape](https://github.com/tdk-landscape/tdk-cli-core/issues/602) leaderboard.
 - **Recognition**: Selected by the [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
 
 ---
