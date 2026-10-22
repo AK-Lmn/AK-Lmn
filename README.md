@@ -99,6 +99,9 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 ### Open Source Contributions
 
 #### [`flisk-sh/flisk`](https://github.com/flisk-sh/flisk)
+`›` `[TEST]` &nbsp;·&nbsp; [expand coverage for the generator template engine (#1553)](https://github.com/flisk-sh/flisk/pull/1866)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [cover service URL generation and runtime state edges (#1593)](https://github.com/flisk-sh/flisk/pull/1865)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [cover custom agent runtime handling (#1552)](https://github.com/flisk-sh/flisk/pull/1864)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [add unit tests for services metadata, stack metadata, and discovery problems (#1583)](https://github.com/flisk-sh/flisk/pull/1808)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [add unit tests for startup report dependency cycles and empty payloads (#1578)](https://github.com/flisk-sh/flisk/pull/1809)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [add unit tests for generator extension fetcher (#1571)](https://github.com/flisk-sh/flisk/pull/1769)<br/>
