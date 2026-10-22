@@ -5,7 +5,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/AK-Lmn?style=for-the-badge&logo=github&labelColor=07080f&color=8b5cf6&label=SYNK%20FOLLOWERS)](https://github.com/AK-Lmn)
-[![Flisk Hall of Fame](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-GLOBAL%20%232-06b6d4?style=for-the-badge&logo=target&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/602)
+[![Flisk Hall of Fame](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-GLOBAL%20%232-06b6d4?style=for-the-badge&logo=target&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
 [![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-116%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/AK-Lmn/badge.svg)](https://hub.xerj.org/contributors/AK-Lmn)
@@ -26,7 +26,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 - **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
 - **Projects**: Creator of [LibriQ](https://libriq.app) and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
-- **Open Source**: 116+ merged PRs across open-source ecosystems; ranked #2 on the [Flisk Landscape](https://github.com/flisk-sh/flisk/issues/602) leaderboard.
+- **Open Source**: 116+ merged PRs across open-source ecosystems; ranked #2 on the [Flisk Landscape](https://github.com/flisk-sh/flisk/issues/1799) leaderboard.
 - **Recognition**: Selected by the [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
 
 ---
@@ -50,7 +50,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
       <p>Local multi-service runtime engine. Engineered the AI Agent control plane (<code>tdk mcp</code>), PostgreSQL durability session stores, standard machine envelope outputs (#707), native Node provider (#110), and interactive TUI shortcuts (#456).</p>
       <p align="center">
         <a href="https://github.com/flisk-sh/flisk"><b>Repository</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/flisk-sh/flisk/issues/602"><b>Leaderboard</b></a>
+        <a href="https://github.com/flisk-sh/flisk/issues/1799"><b>Leaderboard</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
