@@ -9,6 +9,7 @@
 [![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-119%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/AK-Lmn/badge.svg)](https://hub.xerj.org/contributors/AK-Lmn)
+[![Ko-fi Support & Commissions](https://img.shields.io/badge/KO--FI-SUPPORT%20%26%20COMMISSIONS-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white&labelColor=07080f)](https://ko-fi.com/aklmn)
 
 <br/>
 
@@ -28,6 +29,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 - **Projects**: Creator of [LibriQ](https://libriq.app) and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
 - **Open Source**: 119+ merged PRs across open-source ecosystems; ranked #1 on the [Flisk Landscape](https://github.com/flisk-sh/flisk/issues/1799) leaderboard.
 - **Recognition**: Selected by the [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
+- **Commissions & Support**: Open for web development commissions, custom scripts, and software builds on [Ko-fi](https://ko-fi.com/aklmn).
 
 ---
 
