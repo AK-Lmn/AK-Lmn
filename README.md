@@ -5,7 +5,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/AK-Lmn?style=for-the-badge&logo=github&labelColor=07080f&color=8b5cf6&label=SYNK%20FOLLOWERS)](https://github.com/AK-Lmn)
-[![Flisk Hall of Fame](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-GLOBAL%20%231-06b6d4?style=for-the-badge&logo=target&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
+[![FLISK HALL OF FAME](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40AK_Lmn%20%E2%80%A2%2044%20merged%20PRs-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
 [![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-119%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/AK-Lmn/badge.svg)](https://hub.xerj.org/contributors/AK-Lmn)
