@@ -8,7 +8,7 @@
 [![FLISK HALL OF FAME](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40AK_Lmn%20%E2%80%A2%2044%20merged%20PRs-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
 [![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-119%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/AK-Lmn/badge.svg)](https://hub.xerj.org/contributors/AK-Lmn)
+[![XERJ Contributor](https://img.shields.io/badge/XERJ%20CORPUS-CONTRIBUTOR-8b5cf6?style=for-the-badge&labelColor=07080f)](https://github.com/xerj-org/xerj/pulls?q=is%3Apr+author%3AAK-Lmn)
 [![Ko-fi Support & Commissions](https://img.shields.io/badge/KO--FI-SUPPORT%20%26%20COMMISSIONS-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white&labelColor=07080f)](https://ko-fi.com/aklmn)
 
 <br/>
@@ -26,7 +26,7 @@ Full-Stack Developer and open-source contributor based in the Philippines. I bui
 Most of my time is split between building [LibriQ](https://libriq.app) (a digital library and reading log) and contributing to developer tooling across open-source projects on GitHub.
 
 - **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
-- **Projects**: Creator of [LibriQ](https://libriq.app) and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
+- **Projects**: Creator of [PoopPal](https://github.com/AK-Lmn/PoopPal), [LibriQ](https://libriq.app), and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
 - **Open Source**: 119+ merged PRs across open-source ecosystems; ranked #1 on the [Flisk Landscape](https://github.com/flisk-sh/flisk/issues/1799) leaderboard.
 - **Recognition**: Selected by the [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
 - **Commissions & Support**: Open for web development commissions, custom scripts, and software builds on [Ko-fi](https://ko-fi.com/aklmn).
@@ -37,7 +37,17 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h4 align="center"><b>PoopPal</b></h4>
+      <p align="center"><i>Creator &amp; Android Architect</i></p>
+      <p>Retro 16-bit pixel buddy habit counter for Android &amp; Web. Built with React 19, TypeScript, Capacitor native builds, and Firebase Firestore. Features real-time Duo Pal synchronization, native 2x2 home screen widgets, pull-down Quick Settings tile, and procedural Web Audio chiptune synthesizer.</p>
+      <p align="center">
+        <a href="https://pooppal-rho.vercel.app"><b>Live Web App</b></a> &nbsp;·&nbsp;
+        <a href="https://github.com/AK-Lmn/PoopPal/releases/tag/v1.0.0"><b>Download APK</b></a> &nbsp;·&nbsp;
+        <a href="https://github.com/AK-Lmn/PoopPal"><b>Source</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h4 align="center"><b>LibriQ</b></h4>
       <p align="center"><i>Creator &amp; Lead Architect</i></p>
       <p>Personal 3D digital bookshelf and reading tracker. Features an interactive Three.js 3D shelf, RFC 4180 Goodreads and Kindle CSV import engine, multi-tier user profile synchronisation, and offline-first PWA caching.</p>
@@ -46,7 +56,9 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
         <a href="https://github.com/AK-Lmn/Libriq"><b>Source</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4 align="center"><b>Flisk CLI Core</b></h4>
       <p align="center"><i>Global #1 Contributor (4 kyu)</i></p>
       <p>Local multi-service runtime engine. Engineered the AI Agent control plane (<code>tdk mcp</code>), PostgreSQL durability session stores, standard machine envelope outputs (#707), native Node provider (#110), and interactive TUI shortcuts (#456).</p>
@@ -55,7 +67,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
         <a href="https://github.com/flisk-sh/flisk/issues/1799"><b>Leaderboard</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h4 align="center"><b>Lokal.MD</b></h4>
       <p align="center"><i>AppBuildersPh Hackathon Entry</i></p>
       <p>Philippine clinical EHR vault and offline Taglish speech-to-text clinical transcription system for Rural Health Units (RHU). Built with deterministic PNF drug-interaction engines and AES-256-GCM encryption.</p>
