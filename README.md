@@ -40,10 +40,9 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
     <td width="50%" valign="top">
       <h4 align="center"><b>PoopPal</b></h4>
       <p align="center"><i>Creator &amp; Android Architect</i></p>
-      <p>Retro 16-bit pixel buddy habit counter for Android &amp; Web. Built with React 19, TypeScript, Capacitor native builds, and Firebase Firestore. Features real-time Duo Pal synchronization, native 2x2 home screen widgets, pull-down Quick Settings tile, and procedural Web Audio chiptune synthesizer.</p>
+      <p>Retro 16-bit pixel buddy habit counter for Android. Built with React 19, TypeScript, Capacitor native builds, and Firebase Firestore. Features real-time Duo Pal synchronization, native 2x2 home screen widgets, pull-down Quick Settings tile, and procedural Web Audio chiptune synthesizer.</p>
       <p align="center">
-        <a href="https://pooppal-rho.vercel.app"><b>Live Web App</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/AK-Lmn/PoopPal/releases/tag/v1.0.0"><b>Download APK</b></a> &nbsp;·&nbsp;
+        <a href="https://github.com/AK-Lmn/PoopPal/releases/tag/v1.0.0"><b>Download APK (v1.0.0)</b></a> &nbsp;·&nbsp;
         <a href="https://github.com/AK-Lmn/PoopPal"><b>Source</b></a>
       </p>
     </td>
