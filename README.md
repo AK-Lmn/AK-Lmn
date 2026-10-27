@@ -5,8 +5,8 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/AK-Lmn?style=for-the-badge&logo=github&labelColor=07080f&color=8b5cf6&label=SYNK%20FOLLOWERS)](https://github.com/AK-Lmn)
-[![FLISK HALL OF FAME](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40AK_Lmn%20%E2%80%A2%2044%20merged%20PRs-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
-[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-119%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
+[![FLISK HALL OF FAME](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40AK_Lmn%20%E2%80%A2%2048%20merged%20PRs-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
+[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-123%2B%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
 [![XERJ Contributor](https://img.shields.io/badge/XERJ%20CORPUS-CONTRIBUTOR-8b5cf6?style=for-the-badge&labelColor=07080f)](https://github.com/xerj-org/xerj/pulls?q=is%3Apr+author%3AAK-Lmn)
 [![Ko-fi Support & Commissions](https://img.shields.io/badge/KO--FI-SUPPORT%20%26%20COMMISSIONS-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white&labelColor=07080f)](https://ko-fi.com/aklmn)
@@ -27,7 +27,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 - **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
 - **Projects**: Creator of [PoopPal](https://github.com/AK-Lmn/PoopPal), [LibriQ](https://libriq.app), and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
-- **Open Source**: 119+ merged PRs across open-source ecosystems; ranked #1 on the [Flisk Landscape](https://github.com/flisk-sh/flisk/issues/1799) leaderboard.
+- **Open Source**: 123+ merged PRs across open-source ecosystems; ranked #1 on the [Flisk Landscape](https://github.com/flisk-sh/flisk/issues/1799) leaderboard.
 - **Recognition**: Selected by the [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
 - **Commissions & Support**: Open for web development commissions, custom scripts, and software builds on [Ko-fi](https://ko-fi.com/aklmn).
 
@@ -112,6 +112,10 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 ### Open Source Contributions
 
 #### [`flisk-sh/flisk`](https://github.com/flisk-sh/flisk)
+`›` `[TEST]` &nbsp;·&nbsp; [add tests for up-only shared infrastructure list (#2430)](https://github.com/flisk-sh/flisk/pull/2493)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [cover Traefik ingress rows in status-ports (#2427)](https://github.com/flisk-sh/flisk/pull/2492)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [pin TRAEFIK network and ports in platform-standards (#2428)](https://github.com/flisk-sh/flisk/pull/2491)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [cover Traefik network marker check in down-cleanup (#2426)](https://github.com/flisk-sh/flisk/pull/2490)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [expand coverage for the generator template engine (#1553)](https://github.com/flisk-sh/flisk/pull/1866)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [cover service URL generation and runtime state edges (#1593)](https://github.com/flisk-sh/flisk/pull/1865)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [cover custom agent runtime handling (#1552)](https://github.com/flisk-sh/flisk/pull/1864)<br/>
