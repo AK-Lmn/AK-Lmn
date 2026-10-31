@@ -5,8 +5,8 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/AK-Lmn?style=for-the-badge&logo=github&labelColor=07080f&color=8b5cf6&label=SYNK%20FOLLOWERS)](https://github.com/AK-Lmn)
-[![FLISK HALL OF FAME](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40AK_Lmn%20%E2%80%A2%2060%20merged%20PRs-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
-[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-140%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
+[![FLISK HALL OF FAME](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40AK_Lmn%20%E2%80%A2%2062%20merged%20PRs-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
+[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-142%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
 [![XERJ Contributor](https://img.shields.io/badge/XERJ%20CORPUS-CONTRIBUTOR-8b5cf6?style=for-the-badge&labelColor=07080f)](https://github.com/xerj-org/xerj/pulls?q=is%3Apr+author%3AAK-Lmn)
 [![GitHub Sponsors](https://img.shields.io/badge/SPONSOR-GITHUB%20SPONSORS-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=07080f)](https://github.com/sponsors/AK-Lmn)
