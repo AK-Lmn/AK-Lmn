@@ -6,7 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AK-Lmn?style=for-the-badge&logo=github&labelColor=07080f&color=8b5cf6&label=SYNK%20FOLLOWERS)](https://github.com/AK-Lmn)
 [![FLISK MAINTAINER](https://img.shields.io/badge/FLISK-MAINTAINER-06b6d4?style=for-the-badge&logo=github&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1164)
-[![FLISK HALL OF FAME](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40AK_Lmn%20%E2%80%A2%2064%20merged%20PRs-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
 [![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-144%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
 [![XERJ Contributor](https://img.shields.io/badge/XERJ%20CORPUS-CONTRIBUTOR-8b5cf6?style=for-the-badge&labelColor=07080f)](https://github.com/xerj-org/xerj/pulls?q=is%3Apr+author%3AAK-Lmn)
@@ -29,7 +28,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 - **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
 - **Projects**: Creator of [PoopPal](https://github.com/AK-Lmn/PoopPal), [LibriQ](https://libriq.app), and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
-- **Open Source**: Flisk Maintainer (write collaborator across 66 flisk-sh repositories); 144+ merged PRs across open-source ecosystems; ranked #2 on the [Flisk Landscape](https://github.com/flisk-sh/flisk/issues/1799) leaderboard (4 kyu).
+- **Open Source**: Flisk Maintainer (write collaborator across 66 flisk-sh repositories); 144+ merged PRs across open-source ecosystems.
 - **Recognition**: Selected by the [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
 - **Sponsorship & Commissions**: Officially approved for [GitHub Sponsors](https://github.com/sponsors/AK-Lmn) (0% platform fees). Open for web development commissions and custom builds on [Ko-fi](https://ko-fi.com/aklmn).
 
@@ -61,11 +60,11 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
   <tr>
     <td width="50%" valign="top">
       <h4 align="center"><b>Flisk CLI Core</b></h4>
-      <p align="center"><i>Global #1 Contributor (4 kyu)</i></p>
-      <p>Local multi-service runtime engine. Engineered the AI Agent control plane (<code>tdk mcp</code>), PostgreSQL durability session stores, standard machine envelope outputs (#707), native Node provider (#110), and interactive TUI shortcuts (#456).</p>
+      <p align="center"><i>Maintainer</i></p>
+      <p>Local multi-service runtime engine. Engineered Tiltfile and Compose import subcommands (#2238, #2239), optional Traefik gateway and Postgres capabilities (#2232, #2233), AI Agent control plane (<code>tdk mcp</code>), PostgreSQL durability session stores, and machine envelope outputs (#707).</p>
       <p align="center">
         <a href="https://github.com/flisk-sh/flisk"><b>Repository</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/flisk-sh/flisk/issues/1799"><b>Leaderboard</b></a>
+        <a href="https://github.com/flisk-sh/flisk/pulls?q=is%3Apr+author%3AAK-Lmn+is%3Amerged"><b>Merged PRs (64)</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -119,6 +118,17 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 `›` `[FEAT]` &nbsp;·&nbsp; [make gateway optional via with_gateway toggle (#2232)](https://github.com/flisk-sh/flisk/pull/2853)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [make health checks optional and configurable (#2235)](https://github.com/flisk-sh/flisk/pull/2852)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add flisk import compose subcommand (#2238)](https://github.com/flisk-sh/flisk/pull/2848)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add test for hacktoberfest-embed.mjs (Fixes #2323)](https://github.com/flisk-sh/flisk/pull/2844)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add behaviour test for wsl2-smoke.sh (Fixes #2366)](https://github.com/flisk-sh/flisk/pull/2845)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add test for npm-downloads-graph.mjs (Fixes #2322)](https://github.com/flisk-sh/flisk/pull/2843)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add test for demo-svgs.mjs (Fixes #2328)](https://github.com/flisk-sh/flisk/pull/2842)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add behaviour test for setup-pre-commit.sh (Fixes #2331)](https://github.com/flisk-sh/flisk/pull/2841)<br/>
+`›` `[FIX]` &nbsp;·&nbsp; [preserve hooks when .githooks is absent](https://github.com/flisk-sh/flisk/pull/2710)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add behaviour test for sync-byo-templates.sh (Fixes #2368)](https://github.com/flisk-sh/flisk/pull/2660)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add behaviour test for package-lifecycle-smoke.sh (Fixes #2370)](https://github.com/flisk-sh/flisk/pull/2659)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add behaviour test for cold-boot-notes.sh (Fixes #2369)](https://github.com/flisk-sh/flisk/pull/2658)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add behaviour test for release-binaries.sh (Fixes #2372)](https://github.com/flisk-sh/flisk/pull/2657)<br/>
+`›` `[TEST]` &nbsp;·&nbsp; [add behaviour test for audit-codebase.sh (Fixes #2371)](https://github.com/flisk-sh/flisk/pull/2656)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [add tests for up-only shared infrastructure list (#2430)](https://github.com/flisk-sh/flisk/pull/2493)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [cover Traefik ingress rows in status-ports (#2427)](https://github.com/flisk-sh/flisk/pull/2492)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [pin TRAEFIK network and ports in platform-standards (#2428)](https://github.com/flisk-sh/flisk/pull/2491)<br/>
