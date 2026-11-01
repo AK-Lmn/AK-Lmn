@@ -5,6 +5,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/AK-Lmn?style=for-the-badge&logo=github&labelColor=07080f&color=8b5cf6&label=SYNK%20FOLLOWERS)](https://github.com/AK-Lmn)
+[![FLISK MAINTAINER](https://img.shields.io/badge/FLISK-MAINTAINER-06b6d4?style=for-the-badge&logo=github&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1164)
 [![FLISK HALL OF FAME](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40AK_Lmn%20%E2%80%A2%2064%20merged%20PRs-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
 [![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-144%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
@@ -28,7 +29,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 - **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
 - **Projects**: Creator of [PoopPal](https://github.com/AK-Lmn/PoopPal), [LibriQ](https://libriq.app), and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
-- **Open Source**: 144+ merged PRs across open-source ecosystems; ranked #2 on the [Flisk Landscape](https://github.com/flisk-sh/flisk/issues/1799) leaderboard.
+- **Open Source**: Flisk Maintainer (write collaborator across 66 flisk-sh repositories); 144+ merged PRs across open-source ecosystems; ranked #2 on the [Flisk Landscape](https://github.com/flisk-sh/flisk/issues/1799) leaderboard (4 kyu).
 - **Recognition**: Selected by the [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
 - **Sponsorship & Commissions**: Officially approved for [GitHub Sponsors](https://github.com/sponsors/AK-Lmn) (0% platform fees). Open for web development commissions and custom builds on [Ko-fi](https://ko-fi.com/aklmn).
 
@@ -99,12 +100,12 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AK-Lmn&show_icons=true&theme=radical&bg_color=07080f&title_color=38bdf8&text_color=cbd5e1&icon_color=c084fc&border_color=8b5cf6&hide_border=false" height="175" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AK-Lmn&theme=radical&background=07080f&ring=8b5cf6&fire=38bdf8&currStreakLabel=c084fc&border=8b5cf6&stroke=8b5cf6&sideLabels=cbd5e1&sideNums=38bdf8&dates=cbd5e1" height="175" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AK-Lmn&show_icons=true&theme=radical&bg_color=07080f&title_color=38bdf8&text_color=cbd5e1&icon_color=c084fc&border_color=8b5cf6&hide_border=false" height="175" />
+<img src="https://streak-stats.demolab.com/?user=AK-Lmn&theme=radical&background=07080f&ring=8b5cf6&fire=38bdf8&currStreakLabel=c084fc&border=8b5cf6&stroke=8b5cf6&sideLabels=cbd5e1&sideNums=38bdf8&dates=cbd5e1" height="175" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-Lmn&layout=compact&theme=radical&bg_color=07080f&title_color=38bdf8&text_color=cbd5e1&border_color=8b5cf6&hide_border=false" height="150" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AK-Lmn&layout=compact&theme=radical&bg_color=07080f&title_color=38bdf8&text_color=cbd5e1&border_color=8b5cf6&hide_border=false" height="150" />
 
 </div>
 
