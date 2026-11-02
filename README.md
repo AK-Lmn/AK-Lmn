@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AK-Lmn?style=for-the-badge&logo=github&labelColor=07080f&color=8b5cf6&label=SYNK%20FOLLOWERS)](https://github.com/AK-Lmn)
 [![FLISK MAINTAINER](https://img.shields.io/badge/FLISK-MAINTAINER-06b6d4?style=for-the-badge&logo=github&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1164)
-[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-144%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
+[![Merged PRs](https://img.shields.io/badge/%C3%A6%20CONTRIBUTIONS-145%20MERGED-ec4899?style=for-the-badge&labelColor=07080f)](https://github.com/AK-Lmn)
 <br/>
 [![XERJ Contributor](https://img.shields.io/badge/XERJ%20CORPUS-CONTRIBUTOR-8b5cf6?style=for-the-badge&labelColor=07080f)](https://github.com/xerj-org/xerj/pulls?q=is%3Apr+author%3AAK-Lmn)
 [![GitHub Sponsors](https://img.shields.io/badge/SPONSOR-GITHUB%20SPONSORS-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=07080f)](https://github.com/sponsors/AK-Lmn)
@@ -27,8 +27,8 @@ Full-Stack Developer and open-source contributor based in the Philippines. I bui
 Most of my time is split between building [LibriQ](https://libriq.app) (a digital library and reading log) and contributing to developer tooling across open-source projects on GitHub.
 
 - **Focus**: Full-Stack Web Development, CLI & Developer Tooling, Offline-First PWAs.
-- **Projects**: Creator of [PoopPal](https://github.com/AK-Lmn/PoopPal), [LibriQ](https://libriq.app), and [Lokal.MD](https://github.com/AK-Lmn/lokal.md).
-- **Open Source**: Flisk Maintainer (write collaborator across 66 flisk-sh repositories); 144+ merged PRs across open-source ecosystems.
+- **Projects**: Creator of [PoopPal](https://github.com/AK-Lmn/PoopPal), [LibriQ](https://libriq.app), and [Lokal.MD](https://github.com/AK-Lmn/lokal-md).
+- **Open Source**: Flisk Maintainer (write collaborator across 66 flisk-sh repositories); 145+ merged PRs across open-source ecosystems.
 - **Recognition**: Selected by the [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
 - **Sponsorship & Commissions**: Officially approved for [GitHub Sponsors](https://github.com/sponsors/AK-Lmn) (0% platform fees). Open for web development commissions and custom builds on [Ko-fi](https://ko-fi.com/aklmn).
 
@@ -64,7 +64,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
       <p>Local multi-service runtime engine. Engineered Tiltfile and Compose import subcommands (#2238, #2239), optional Traefik gateway and Postgres capabilities (#2232, #2233), AI Agent control plane (<code>tdk mcp</code>), PostgreSQL durability session stores, and machine envelope outputs (#707).</p>
       <p align="center">
         <a href="https://github.com/flisk-sh/flisk"><b>Repository</b></a> &nbsp;·&nbsp;
-        <a href="https://github.com/flisk-sh/flisk/pulls?q=is%3Apr+author%3AAK-Lmn+is%3Amerged"><b>Merged PRs (64)</b></a>
+        <a href="https://github.com/flisk-sh/flisk/pulls?q=is%3Apr+author%3AAK-Lmn+is%3Amerged"><b>Merged PRs (65)</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -72,7 +72,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
       <p align="center"><i>AppBuildersPh Hackathon Entry</i></p>
       <p>Philippine clinical EHR vault and offline Taglish speech-to-text clinical transcription system for Rural Health Units (RHU). Built with deterministic PNF drug-interaction engines and AES-256-GCM encryption.</p>
       <p align="center">
-        <a href="https://github.com/AK-Lmn/lokal.md"><b>Source</b></a>
+        <a href="https://github.com/AK-Lmn/lokal-md"><b>Source</b></a>
       </p>
     </td>
   </tr>
@@ -99,12 +99,12 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AK-Lmn&show_icons=true&theme=radical&bg_color=07080f&title_color=38bdf8&text_color=cbd5e1&icon_color=c084fc&border_color=8b5cf6&hide_border=false" height="175" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=AK-Lmn&show_icons=true&theme=radical&bg_color=07080f&title_color=38bdf8&text_color=cbd5e1&icon_color=c084fc&border_color=8b5cf6&hide_border=false" height="175" />
 <img src="https://streak-stats.demolab.com/?user=AK-Lmn&theme=radical&background=07080f&ring=8b5cf6&fire=38bdf8&currStreakLabel=c084fc&border=8b5cf6&stroke=8b5cf6&sideLabels=cbd5e1&sideNums=38bdf8&dates=cbd5e1" height="175" />
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AK-Lmn&layout=compact&theme=radical&bg_color=07080f&title_color=38bdf8&text_color=cbd5e1&border_color=8b5cf6&hide_border=false" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=AK-Lmn&layout=compact&theme=radical&bg_color=07080f&title_color=38bdf8&text_color=cbd5e1&border_color=8b5cf6&hide_border=false" height="150" />
 
 </div>
 
@@ -113,6 +113,7 @@ Most of my time is split between building [LibriQ](https://libriq.app) (a digita
 ### Open Source Contributions
 
 #### [`flisk-sh/flisk`](https://github.com/flisk-sh/flisk)
+`›` `[FEAT]` &nbsp;·&nbsp; [check heading anchors in Markdown links in doc-links gate (#3020)](https://github.com/flisk-sh/flisk/pull/3020)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [add flisk import tiltfile subcommand (#2239)](https://github.com/flisk-sh/flisk/pull/2849)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [make database optional via with_db toggle (#2233)](https://github.com/flisk-sh/flisk/pull/2854)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [make gateway optional via with_gateway toggle (#2232)](https://github.com/flisk-sh/flisk/pull/2853)<br/>
