@@ -293,8 +293,8 @@ SYSTEMS & TOOL  Docker · Tilt · Traefik · MCP · GitHub Actions · Vitest · 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AK-Lmn&show_icons=true&theme=dark&bg_color=09090b&title_color=f4f4f5&text_color=a1a1aa&icon_color=fafafa&border_color=27272a&hide_border=false" height="155" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=AK-Lmn&show_icons=true&theme=dark&bg_color=09090b&title_color=f4f4f5&text_color=a1a1aa&icon_color=fafafa&border_color=27272a&hide_border=false" height="155" />
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=AK-Lmn&theme=dark&background=09090b&border=27272a&stroke=27272a&ring=fafafa&fire=fafafa&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=71717a" height="155" />
+<img src="https://streak-stats.demolab.com/?user=AK-Lmn&theme=dark&background=09090b&border=27272a&stroke=27272a&ring=fafafa&fire=09090b&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=71717a" height="155" />
 
 </div>
