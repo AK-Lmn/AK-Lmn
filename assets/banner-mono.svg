@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <linearGradient id="monoBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#27272a"/>
+      <stop offset="50%" stop-color="#52525b"/>
+      <stop offset="100%" stop-color="#27272a"/>
+    </linearGradient>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#18181b" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .mono-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-weight: 900; letter-spacing: 6px; fill: #f4f4f5; }
+    .mono-sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-weight: 500; letter-spacing: 3px; fill: #a1a1aa; font-size: 14px; }
+    .mono-meta { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; fill: #71717a; letter-spacing: 2px; }
+    .mono-pill-text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 12px; font-weight: 600; fill: #f4f4f5; letter-spacing: 1.5px; }
+  </style>
+
+  <!-- Deep Obsidian Canvas -->
+  <rect width="1200" height="320" rx="14" fill="#09090b"/>
+  <rect width="1200" height="320" rx="14" fill="url(#gridPattern)"/>
+
+  <!-- Outer Border -->
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="14" fill="none" stroke="url(#monoBorder)" stroke-width="1"/>
+
+  <!-- Top Pill: System Protocol -->
+  <g transform="translate(600, 65)">
+    <rect x="-140" y="-14" width="280" height="28" rx="14" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+    <text x="0" y="4.5" text-anchor="middle" class="mono-meta">// ARCHITECTURE &amp; SYSTEMS</text>
+  </g>
+
+  <!-- Main Headline Title -->
+  <text x="600" y="145" text-anchor="middle" font-size="46" class="mono-title">AK-LMN</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="185" text-anchor="middle" class="mono-sub">FULL-STACK DEVELOPER  ·  OPEN-SOURCE MAINTAINER  ·  CS STUDENT</text>
+
+  <!-- Metric Pills Row -->
+  <g transform="translate(600, 245)">
+    <!-- Pill 1: Flisk Maintainer -->
+    <g transform="translate(-250, 0)">
+      <rect x="-110" y="-16" width="220" height="32" rx="6" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+      <text x="0" y="5" text-anchor="middle" class="mono-pill-text">FLISK MAINTAINER</text>
+    </g>
+
+    <!-- Pill 2: 145+ Merged PRs -->
+    <g transform="translate(0, 0)">
+      <rect x="-110" y="-16" width="220" height="32" rx="6" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+      <text x="0" y="5" text-anchor="middle" class="mono-pill-text">145+ MERGED PRS</text>
+    </g>
+
+    <!-- Pill 3: Flagship LibriQ -->
+    <g transform="translate(250, 0)">
+      <rect x="-110" y="-16" width="220" height="32" rx="6" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+      <text x="0" y="5" text-anchor="middle" class="mono-pill-text">CREATOR OF LIBRIQ</text>
+    </g>
+  </g>
+
+  <!-- Bottom Accent Line -->
+  <line x1="0" y1="319" x2="1200" y2="319" stroke="#27272a" stroke-width="2"/>
+</svg>
