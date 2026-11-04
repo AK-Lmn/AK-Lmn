@@ -12,11 +12,11 @@
 
 <br/><br/>
 
-# Kim (AK-Lmn)
-**Full-Stack Developer · Open-Source Maintainer · Computer Science**  
-*Building developer tooling, runtime engines, and offline-first architectures.*
+Building developer tooling, runtime engines, and offline-first architectures.
 
-[Portfolio](https://aklmn.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kim-lamano) &nbsp;·&nbsp; [Repositories](https://github.com/AK-Lmn?tab=repositories) &nbsp;·&nbsp; [GitHub Sponsors](https://github.com/sponsors/AK-Lmn) &nbsp;·&nbsp; [Ko-fi](https://ko-fi.com/aklmn)
+<br/>
+
+[Portfolio](https://aklmn.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kim-lamano) &nbsp;·&nbsp; [GitHub Sponsors](https://github.com/sponsors/AK-Lmn) &nbsp;·&nbsp; [Ko-fi](https://ko-fi.com/aklmn)
 
 </div>
 
@@ -24,47 +24,62 @@
 
 ### [01] PROFILE
 
-- **Current Focus**: Architecting [LibriQ](https://libriq.app) (3D digital library) and developer runtime toolchains.
-- **Open Source**: Flisk Maintainer across 66 repositories; 145+ merged PRs across open-source ecosystems.
-- **Recognition**: Selected by [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as a reference open-source implementation.
-- **Education**: 2nd Year Computer Science student at Lyceum of Alabang.
+- `›` **Focus**: Architecting [LibriQ](https://libriq.app) (3D digital library) and core developer runtime tooling.
+- `›` **Open Source**: Flisk Maintainer across 66 repositories; 145+ merged PRs across open-source ecosystems.
+- `›` **Recognition**: Selected by [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
+- `›` **Education**: 2nd Year Computer Science student at Lyceum of Alabang.
 
 ---
 
 ### [02] FEATURED PROJECTS
 
-#### [PoopPal](https://github.com/AK-Lmn/PoopPal) — Creator & Android Architect
-> Habit tracking mobile application built for Android.  
-> Stack: React 19, TypeScript, Capacitor, Firebase Firestore.  
-> Features real-time duo synchronization, native 2x2 home screen widgets, pull-down Quick Settings tile, launcher shortcuts, and procedural Web Audio chiptune synthesis.  
-> Links: [Download APK (v1.0.0)](https://github.com/AK-Lmn/PoopPal/releases/tag/v1.0.0) · [Repository](https://github.com/AK-Lmn/PoopPal)
-
-#### [LibriQ](https://libriq.app) — Creator & Lead Architect
-> Personal 3D digital bookshelf and reading tracker.  
-> Stack: TypeScript, Three.js, Offline-first PWA.  
-> Features interactive 3D shelf visualization, RFC 4180 Goodreads and Kindle CSV data pipeline, and multi-tier user profile synchronization.  
-> Links: [Live Application](https://libriq.app) · [Repository](https://github.com/AK-Lmn/Libriq) · [XERJ Reference](https://hub.xerj.org/contributors/AK-Lmn)
-
-#### [Flisk CLI Core](https://github.com/flisk-sh/flisk) — Core Contributor & Maintainer
-> Local multi-service runtime engine.  
-> Stack: TypeScript, Node.js, PostgreSQL, Docker, Tilt.  
-> Engineered Tiltfile and Compose import subcommands (#2238, #2239), optional Traefik gateway and Postgres capabilities (#2232, #2233), AI Agent control plane (`tdk mcp`), PostgreSQL durability session stores, and machine envelope outputs (#707).  
-> Links: [Repository](https://github.com/flisk-sh/flisk) · [Merged PRs (65)](https://github.com/flisk-sh/flisk/pulls?q=is%3Apr+author%3AAK-Lmn+is%3Amerged)
-
-#### [Lokal.MD](https://github.com/AK-Lmn/lokal-md) — Lead Developer (AppBuildersPH Hackathon)
-> Philippine clinical EHR vault and offline Taglish speech-to-text consultation scribe for Rural Health Units (RHU).  
-> Stack: Python, Local STT, SQLite, AES-256-GCM.  
-> Features deterministic PNF drug-interaction validation and air-gapped transcription.  
-> Links: [Repository](https://github.com/AK-Lmn/lokal-md)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><b>PoopPal</b> &nbsp;·&nbsp; <code>Android · Capacitor</code></h4>
+      <p>Habit tracking Android app built with React 19, TypeScript, Capacitor, and Firebase Firestore. Features real-time duo sync, 2x2 home widgets, Quick Settings tile, and procedural chiptune synth.</p>
+      <p>
+        <a href="https://github.com/AK-Lmn/PoopPal/releases/tag/v1.0.0"><b>Download APK (v1.0.0)</b></a> &nbsp;·&nbsp; 
+        <a href="https://github.com/AK-Lmn/PoopPal">Source</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><b>LibriQ</b> &nbsp;·&nbsp; <code>Three.js · PWA</code></h4>
+      <p>Personal 3D digital bookshelf and reading tracker. Features interactive Three.js 3D shelf rendering, RFC 4180 Goodreads and Kindle CSV data pipeline, and offline-first PWA caching.</p>
+      <p>
+        <a href="https://libriq.app"><b>Live Application</b></a> &nbsp;·&nbsp; 
+        <a href="https://github.com/AK-Lmn/Libriq">Source</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><b>Flisk CLI Core</b> &nbsp;·&nbsp; <code>Runtime · Systems</code></h4>
+      <p>Local multi-service runtime engine. Engineered Tiltfile and Compose import subcommands (#2238, #2239), optional Traefik gateway and Postgres (#2232, #2233), AI Agent control plane (<code>tdk mcp</code>), and machine envelope outputs (#707).</p>
+      <p>
+        <a href="https://github.com/flisk-sh/flisk"><b>Repository</b></a> &nbsp;·&nbsp; 
+        <a href="https://github.com/flisk-sh/flisk/pulls?q=is%3Apr+author%3AAK-Lmn+is%3Amerged">Merged PRs (65)</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><b>Lokal.MD</b> &nbsp;·&nbsp; <code>Python · EHR</code></h4>
+      <p>Philippine clinical EHR vault and offline Taglish speech-to-text clinical transcription system for Rural Health Units (RHU). Built with deterministic PNF safety engines and AES-256-GCM.</p>
+      <p>
+        <a href="https://github.com/AK-Lmn/lokal-md"><b>Source</b></a> &nbsp;·&nbsp; 
+        <i>AppBuildersPH Hackathon</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### [03] OPEN SOURCE IMPACT
 
-- **flisk-sh/flisk**: Authored `flisk import tiltfile` (#2849), `flisk import compose` (#2848), configurable gateways and databases (#2853, #2854), and expanded runtime unit test suites.
-- **xerj-org/xerj**: Documented 26 agent harness configurations and execution contracts (#2109).
-- **determined-001/Quay**: Hardened mainnet secret generators and cash-out quote validators (#425, #426).
-- **oll4com/spaceapp**: Unified API, workflow, and activity telemetry over OTLP spans (#217).
+- **flisk-sh/flisk**: Shipped import commands (`tiltfile`, `compose`), configurable gateways, and runtime tests.
+- **xerj-org/xerj**: Documented 26 agent harness configurations and execution contracts.
+- **determined-001/Quay**: Hardened mainnet secret generator and quote validators.
+- **oll4com/spaceapp**: Unified distributed tracing and child-workflow spans over OTLP.
 
 <details>
 <summary><b>Complete Pull Request Log (145+ Merged PRs across 25+ Ecosystems)</b></summary>
@@ -260,10 +275,10 @@
 ### [04] TECHNICAL STACK
 
 ```text
-Languages      · TypeScript · JavaScript · Python · Kotlin · SQL · Starlark · Bash
-Frontend       · React 19 · Next.js · Vue · Three.js · Tailwind CSS · Vite
-Backend & DB   · Node.js · Express · FastAPI · PostgreSQL · SQLite / SQLCipher · Firebase
-Infrastructure · Docker · Tilt · Traefik · MCP · GitHub Actions · Vitest · Biome
+LANGUAGES       TypeScript · JavaScript · Python · Kotlin · SQL · Starlark · Bash
+FRONTEND        React 19 · Next.js · Vue · Three.js · Tailwind CSS · Vite
+BACKEND & DB    Node.js · Express · FastAPI · PostgreSQL · SQLite / SQLCipher · Firebase
+SYSTEMS & TOOL  Docker · Tilt · Traefik · MCP · GitHub Actions · Vitest · Biome
 ```
 
 ---
