@@ -5,7 +5,7 @@
 <br/><br/>
 
 [![FLISK MAINTAINER](https://img.shields.io/badge/FLISK-MAINTAINER-ffffff?style=flat-square&logo=github&labelColor=18181b&color=27272a)](https://github.com/flisk-sh/flisk/issues/1164)
-[![Merged PRs](https://img.shields.io/badge/MERGED--PRS-148+-ffffff?style=flat-square&labelColor=18181b&color=27272a)](https://github.com/AK-Lmn)
+[![Merged PRs](https://img.shields.io/badge/MERGED--PRS-150+-ffffff?style=flat-square&labelColor=18181b&color=27272a)](https://github.com/AK-Lmn)
 [![XERJ Contributor](https://img.shields.io/badge/XERJ-REFERENCE-ffffff?style=flat-square&labelColor=18181b&color=27272a)](https://hub.xerj.org/contributors/AK-Lmn)
 [![Sponsor](https://img.shields.io/badge/SPONSOR-GITHUB-ffffff?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=18181b&color=27272a)](https://github.com/sponsors/AK-Lmn)
 [![Ko-fi](https://img.shields.io/badge/KO--FI-SUPPORT-ffffff?style=flat-square&logo=kofi&logoColor=white&labelColor=18181b&color=27272a)](https://ko-fi.com/aklmn)
@@ -25,7 +25,7 @@ Building developer tooling, runtime engines, and offline-first architectures.
 ### [01] PROFILE
 
 - `›` **Focus**: Architecting [LibriQ](https://libriq.app) (3D digital library) and core developer runtime tooling.
-- `›` **Open Source**: Flisk Maintainer across 66 repositories; 148+ merged PRs across open-source ecosystems.
+- `›` **Open Source**: Flisk Maintainer across 66 repositories; 150+ merged PRs across open-source ecosystems.
 - `›` **Recognition**: Selected by [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
 - `›` **Education**: 2nd Year Computer Science student at Lyceum of Alabang.
 
@@ -58,7 +58,7 @@ Building developer tooling, runtime engines, and offline-first architectures.
       <p>Local multi-service runtime engine. Engineered Tiltfile and Compose import subcommands (#2238, #2239), optional Traefik gateway and Postgres (#2232, #2233), AI Agent control plane (<code>tdk mcp</code>), and machine envelope outputs (#707).</p>
       <p>
         <a href="https://github.com/flisk-sh/flisk"><b>Repository</b></a> &nbsp;·&nbsp; 
-        <a href="https://github.com/flisk-sh/flisk/pulls?q=is%3Apr+author%3AAK-Lmn+is%3Amerged">Merged PRs (68)</a>
+        <a href="https://github.com/flisk-sh/flisk/pulls?q=is%3Apr+author%3AAK-Lmn+is%3Amerged">Merged PRs (69)</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -82,10 +82,11 @@ Building developer tooling, runtime engines, and offline-first architectures.
 - **oll4com/spaceapp**: Unified distributed tracing and child-workflow spans over OTLP.
 
 <details>
-<summary><b>Complete Pull Request Log (148+ Merged PRs across 25+ Ecosystems)</b></summary>
+<summary><b>Complete Pull Request Log (150+ Merged PRs across 25+ Ecosystems)</b></summary>
 <br/>
 
 #### [`flisk-sh/flisk`](https://github.com/flisk-sh/flisk)
+`›` `[FIX]` &nbsp;·&nbsp; [list bring-your-own services at startup (#3203)](https://github.com/flisk-sh/flisk/pull/3285)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [flisk version --verbose prints the git commit the package was built from (Fixes #3096)](https://github.com/flisk-sh/flisk/pull/3195)<br/>
 `›` `[FEAT]` &nbsp;·&nbsp; [command on a service that also has build (Fixes #3060)](https://github.com/flisk-sh/flisk/pull/3194)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [cover cli/src/commands/ui.tsx (Fixes #3112)](https://github.com/flisk-sh/flisk/pull/3193)<br/>
