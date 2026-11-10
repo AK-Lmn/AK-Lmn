@@ -10,6 +10,12 @@
 [![Sponsor](https://img.shields.io/badge/SPONSOR-GITHUB-ffffff?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=18181b&color=27272a)](https://github.com/sponsors/AK-Lmn)
 [![Ko-fi](https://img.shields.io/badge/KO--FI-SUPPORT-ffffff?style=flat-square&logo=kofi&logoColor=white&labelColor=18181b&color=27272a)](https://ko-fi.com/aklmn)
 
+<br/>
+
+[![Founding Contributor #3 @AK-Lmn](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%233%20of%20100%20%E2%80%A2%20%40AK-Lmn&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
+[![Flisk Elite @AK-Lmn](https://img.shields.io/static/v1?label=FLISK%20ELITE&message=50%2B%20merged%20PRs%20%E2%80%A2%20%40AK-Lmn&color=f59e0b&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
+[![Brown Belt @AK-Lmn](https://img.shields.io/static/v1?label=FLISK%20BROWN%20BELT&message=4-1%20kyu%20%E2%80%A2%20%40AK-Lmn&color=a16207&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
+
 <br/><br/>
 
 Building developer tooling, runtime engines, and offline-first architectures.
@@ -25,7 +31,7 @@ Building developer tooling, runtime engines, and offline-first architectures.
 ### [01] PROFILE
 
 - `›` **Focus**: Architecting [LibriQ](https://libriq.app) (3D digital library) and core developer runtime tooling.
-- `›` **Open Source**: Flisk Maintainer across 66 repositories; 150+ merged PRs across open-source ecosystems.
+- `›` **Open Source**: Flisk Maintainer across 66 repositories (Founding Contributor #3 of 100 · Flisk Elite · Brown Belt); 150+ merged PRs across open-source ecosystems.
 - `›` **Recognition**: Selected by [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
 - `›` **Education**: 2nd Year Computer Science student at Lyceum of Alabang.
 
