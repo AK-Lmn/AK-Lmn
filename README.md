@@ -45,7 +45,7 @@ Building developer tooling, runtime engines, and offline-first architectures.
       <h4><b>PoopPal</b> &nbsp;·&nbsp; <code>Android · Capacitor</code></h4>
       <p>Habit tracking Android app built with React 19, TypeScript, Capacitor, and Firebase Firestore. Features real-time duo sync, 2x2 home widgets, Quick Settings tile, and procedural chiptune synth.</p>
       <p>
-        <a href="https://github.com/AK-Lmn/PoopPal/releases/tag/v1.0.0"><b>Download APK (v1.0.0)</b></a> &nbsp;·&nbsp; 
+        <a href="https://github.com/AK-Lmn/PoopPal/releases/tag/v1.1.0"><b>Download APK (v1.1.0)</b></a> &nbsp;·&nbsp; 
         <a href="https://github.com/AK-Lmn/PoopPal">Source</a>
       </p>
     </td>
@@ -299,7 +299,7 @@ SYSTEMS & TOOL  Docker · Tilt · Traefik · MCP · GitHub Actions · Vitest · 
 
 | Total Contributions | Merged PRs | Repositories Impacted | Flisk Maintainer |
 | :---: | :---: | :---: | :---: |
-| **1,800+** | **150+** | **30+ Ecosystems** | **69 Merged in Core** |
+| **1,950+** | **150+** | **30+ Ecosystems** | **69 Merged in Core** |
 
 <br/>
 
