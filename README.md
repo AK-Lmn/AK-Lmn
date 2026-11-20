@@ -1,82 +1,124 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AK-Lmn/AK-Lmn/main/assets/banner-mono.svg" alt="AK-Lmn" width="100%" />
+<img src="https://raw.githubusercontent.com/AK-Lmn/AK-Lmn/main/assets/banner-mono.svg" alt="AK-Lmn Archival Workstation" width="100%" />
 
 <br/><br/>
 
-[![FLISK MAINTAINER](https://img.shields.io/badge/FLISK-MAINTAINER-ffffff?style=flat-square&logo=github&labelColor=18181b&color=27272a)](https://github.com/flisk-sh/flisk/issues/1164)
-[![Merged PRs](https://img.shields.io/badge/MERGED--PRS-214-ffffff?style=flat-square&labelColor=18181b&color=27272a)](https://github.com/AK-Lmn)
-[![XERJ Contributor](https://img.shields.io/badge/XERJ-REFERENCE-ffffff?style=flat-square&labelColor=18181b&color=27272a)](https://hub.xerj.org/contributors/AK-Lmn)
-[![Sponsor](https://img.shields.io/badge/SPONSOR-GITHUB-ffffff?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=18181b&color=27272a)](https://github.com/sponsors/AK-Lmn)
-[![Ko-fi](https://img.shields.io/badge/KO--FI-SUPPORT-ffffff?style=flat-square&logo=kofi&logoColor=white&labelColor=18181b&color=27272a)](https://ko-fi.com/aklmn)
+[![FLISK MAINTAINER](https://img.shields.io/badge/FLISK-MAINTAINER-ffffff?style=flat-square&logo=github&labelColor=0d101a&color=1e2433)](https://github.com/flisk-sh/flisk/issues/1164)
+[![Merged PRs](https://img.shields.io/badge/MERGED--PRS-214-ffffff?style=flat-square&labelColor=0d101a&color=38bdf8)](https://github.com/AK-Lmn)
+[![XERJ Contributor](https://img.shields.io/badge/XERJ-REFERENCE-ffffff?style=flat-square&labelColor=0d101a&color=1e2433)](https://hub.xerj.org/contributors/AK-Lmn)
+[![Sponsor](https://img.shields.io/badge/SPONSOR-GITHUB-ffffff?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0d101a&color=1e2433)](https://github.com/sponsors/AK-Lmn)
+[![Ko-fi](https://img.shields.io/badge/KO--FI-SUPPORT-ffffff?style=flat-square&logo=kofi&logoColor=white&labelColor=0d101a&color=1e2433)](https://ko-fi.com/aklmn)
 
 <br/>
 
-[![Founding Contributor #3 @AK-Lmn](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%233%20of%20100%20%E2%80%A2%20%40AK-Lmn&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
+[![Founding Contributor #3 @AK-Lmn](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%233%20of%20100%20%E2%80%A2%20%40AK-Lmn&color=38bdf8&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
 [![Flisk Elite @AK-Lmn](https://img.shields.io/static/v1?label=FLISK%20ELITE&message=50%2B%20merged%20PRs%20%E2%80%A2%20%40AK-Lmn&color=f59e0b&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
 [![Brown Belt @AK-Lmn](https://img.shields.io/static/v1?label=FLISK%20BROWN%20BELT&message=4-1%20kyu%20%E2%80%A2%20%40AK-Lmn&color=a16207&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
 
 <br/><br/>
 
-Building developer tooling, runtime engines, and offline-first architectures.
-
-<br/>
-
-[Portfolio](https://aklmn.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kim-lamano) &nbsp;·&nbsp; [GitHub Sponsors](https://github.com/sponsors/AK-Lmn) &nbsp;·&nbsp; [Ko-fi](https://ko-fi.com/aklmn)
+``` text
+┌── [TELEMETRY] ─────────────────────────────────────────────────────────────┐
+│ HOST: ak-lmn@workstation      OS: Archival Kernel      STATUS: 214 MERGED  │
+│ FOCUS: Developer Tooling · Runtime Engines · Offline-First Architectures   │
+│ LINKS: aklmn.me · linkedin.com/in/kim-lamano · github.com/sponsors/AK-Lmn │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 <br/>
 
-### [01] PROFILE
+``` text
+┌── [01] SYSTEM PROFILE & MAINTAINER RECORD ────────────────────────────────────────────────────────┐
+│                                                                                                   │
+│  › IDENTITY       Kim Lamano (@AK-Lmn) · 2nd Year Computer Science Student @ Lyceum of Alabang    │
+│  › CORE ROLE      Flisk Maintainer & Reviewer across 66 repositories (flisk-sh ecosystem)         │
+│  › RANK           Founding Contributor #3 of 100 · Flisk Elite · Brown Belt (4-1 kyu)             │
+│  › MILESTONE      214 Total Merged PRs across 50+ open-source ecosystems (83 in Flisk Core)       │
+│  › RECOGNITION    Selected by XERJ Corpus Hub (4.2k+ stars) as an open-source reference solution │
+│  › ARCHITECTURE   Offline-first service workers, Three.js 3D spatial runtimes, developer CLIs     │
+│                                                                                                   │
+└───────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
-- `›` **Focus**: Architecting [LibriQ](https://libriq.app) (3D digital library) and core developer runtime tooling.
-- `›` **Open Source**: Flisk Maintainer across 66 repositories (Founding Contributor #3 of 100 · Flisk Elite · Brown Belt); 214 merged PRs across open-source ecosystems.
-- `›` **Recognition**: Selected by [XERJ Corpus Hub](https://hub.xerj.org/contributors/AK-Lmn) (4.2k+ stars) as an open-source reference solution.
-- `›` **Education**: 2nd Year Computer Science student at Lyceum of Alabang.
+<br/>
 
----
+### [02] FEATURED ARCHITECTURES & RUNTIMES
 
-### [02] FEATURED PROJECTS
-
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4><b>LibriQ</b> &nbsp;·&nbsp; <code>Three.js · PWA · Offline-First</code></h4>
-      <p>Personal 3D digital bookshelf and reading tracker. Features real-time Three.js spatial rendering, RFC 4180 Goodreads and Kindle CSV data pipeline, modular book actions, and offline-first service worker caching.</p>
-      <p>
-        <a href="https://libriq.app"><b>Live Application</b></a> &nbsp;·&nbsp; 
-        <a href="https://github.com/AK-Lmn/Libriq">Source (50 Merged PRs)</a>
-      </p>
+      <div align="left">
+        <b><code>01 // FLAGSHIP APPLICATION</code></b>
+        <h3><b>LibriQ</b> &nbsp;·&nbsp; <code>Three.js · PWA</code></h3>
+        <p>Personal 3D digital bookshelf and spatial reading tracker built for high-performance offline environments.</p>
+        <ul>
+          <li><b>Spatial Canvas:</b> Dynamic Three.js 3D bookshelf rendering with camera animations and custom book shaders.</li>
+          <li><b>Data Pipeline:</b> RFC 4180 streaming parser for Goodreads and Kindle CSV libraries.</li>
+          <li><b>Durability:</b> Offline-first Service Worker cache with zero cloud dependencies.</li>
+        </ul>
+        <p>
+          <a href="https://libriq.app"><b>[Launch Application]</b></a> &nbsp;·&nbsp; 
+          <a href="https://github.com/AK-Lmn/Libriq"><b>Source Code (50 Merged PRs)</b></a>
+        </p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h4><b>Flisk CLI Core</b> &nbsp;·&nbsp; <code>Runtime · Systems · DevTooling</code></h4>
-      <p>Local multi-service runtime engine. Engineered Tiltfile and Compose import subcommands (#2238, #2239), optional Traefik gateway and Postgres (#2232, #2233), AI Agent control plane (<code>tdk mcp</code>), and machine envelope outputs (#707, #4582).</p>
-      <p>
-        <a href="https://github.com/flisk-sh/flisk"><b>Repository</b></a> &nbsp;·&nbsp; 
-        <a href="https://github.com/flisk-sh/flisk/pulls?q=is%3Apr+author%3AAK-Lmn+is%3Amerged">Merged PRs (83 Core)</a>
-      </p>
+      <div align="left">
+        <b><code>02 // SYSTEMS &amp; TOOLING</code></b>
+        <h3><b>Flisk CLI Core</b> &nbsp;·&nbsp; <code>Runtime · Systems</code></h3>
+        <p>Local multi-service runtime orchestration engine and developer experience infrastructure.</p>
+        <ul>
+          <li><b>Subcommands:</b> Engineered <code>flisk import tiltfile</code> (#2239) and <code>compose</code> (#2238).</li>
+          <li><b>Configurable Gateway:</b> Added optional Traefik ingress &amp; Postgres durability session stores (#2232, #2233).</li>
+          <li><b>AI Control Plane:</b> Integrated <code>tdk mcp</code> server interface and standardized JSON envelopes (#707, #4582).</li>
+        </ul>
+        <p>
+          <a href="https://github.com/flisk-sh/flisk"><b>[Ecosystem Core]</b></a> &nbsp;·&nbsp; 
+          <a href="https://github.com/flisk-sh/flisk/pulls?q=is%3Apr+author%3AAK-Lmn+is%3Amerged"><b>Merged PRs (83 Core)</b></a>
+        </p>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><b>PoopPal</b> &nbsp;·&nbsp; <code>Android · Capacitor · React 19</code></h4>
-      <p>Habit tracking Android app built with React 19, TypeScript, Capacitor, and Firebase Firestore. Features real-time duo sync, 2x2 home widgets, Quick Settings tile, and procedural chiptune synth.</p>
-      <p>
-        <a href="https://github.com/AK-Lmn/PoopPal/releases/tag/v1.1.0"><b>Download APK (v1.1.0)</b></a> &nbsp;·&nbsp; 
-        <a href="https://github.com/AK-Lmn/PoopPal">Source</a>
-      </p>
+      <div align="left">
+        <b><code>03 // MOBILE &amp; HARDWARE</code></b>
+        <h3><b>PoopPal</b> &nbsp;·&nbsp; <code>Android · React 19</code></h3>
+        <p>Health habit tracking Android application with real-time hardware telemetry and custom audio engines.</p>
+        <ul>
+          <li><b>Android Integration:</b> Native 2x2 home widgets, Quick Settings tile toggles, and offline-first state.</li>
+          <li><b>Audio Synthesis:</b> Procedural chiptune sound generator built with Web Audio API.</li>
+          <li><b>Real-time Sync:</b> Peer-to-peer duo tracking with Firebase Firestore latency optimization.</li>
+        </ul>
+        <p>
+          <a href="https://github.com/AK-Lmn/PoopPal/releases/tag/v1.1.0"><b>[Download APK v1.1.0]</b></a> &nbsp;·&nbsp; 
+          <a href="https://github.com/AK-Lmn/PoopPal"><b>Source Code</b></a>
+        </p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h4><b>Lokal.MD</b> &nbsp;·&nbsp; <code>Python · Clinical EHR · Taglish STT</code></h4>
-      <p>Philippine clinical EHR vault and offline Taglish speech-to-text clinical transcription system for Rural Health Units (RHU). Built with deterministic PNF safety engines and AES-256-GCM.</p>
-      <p>
-        <a href="https://github.com/AK-Lmn/lokal-md"><b>Source</b></a> &nbsp;·&nbsp; 
-        <i>AppBuildersPH Hackathon</i>
-      </p>
+      <div align="left">
+        <b><code>04 // CLINICAL SYSTEMS</code></b>
+        <h3><b>Lokal.MD</b> &nbsp;·&nbsp; <code>Python · Clinical EHR</code></h3>
+        <p>Offline Taglish speech-to-text EHR vault for Philippine Rural Health Units (RHU).</p>
+        <ul>
+          <li><b>Audio Engine:</b> Local quantized speech-to-text transcription engine for mixed English/Tagalog dialect.</li>
+          <li><b>Security Vault:</b> Deterministic Philippine National Formulary (PNF) validator and AES-256-GCM record encryption.</li>
+          <li><b>Hackathon:</b> Engineered during AppBuildersPH Hackathon.</li>
+        </ul>
+        <p>
+          <a href="https://github.com/AK-Lmn/lokal-md"><b>[Source Repository]</b></a> &nbsp;·&nbsp; 
+          <i>AppBuildersPH Submission</i>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
+
+<br/>
 
 ---
 
@@ -278,29 +320,41 @@ Building developer tooling, runtime engines, and offline-first architectures.
 
 ---
 
-### [04] TECHNICAL STACK
+---
 
-```text
-LANGUAGES       TypeScript · JavaScript · Python · Kotlin · SQL · Starlark · Bash
-FRONTEND        React 19 · Next.js · Vue · Three.js · Tailwind CSS · Vite
-BACKEND & DB    Node.js · Express · FastAPI · PostgreSQL · SQLite / SQLCipher · Firebase
-SYSTEMS & TOOL  Docker · Tilt · Traefik · MCP · GitHub Actions · Vitest · Biome
+### [04] TECHNICAL ARSENAL
+
+``` text
+┌── LANGUAGES ─────── TypeScript · JavaScript · Python · Kotlin · SQL · Starlark · Bash ──────────┐
+│   FRONTEND ──────── React 19 · Next.js · Vue · Three.js · Tailwind CSS · Vite                   │
+│   BACKEND & DB ──── Node.js · Express · FastAPI · PostgreSQL · SQLite / SQLCipher · Firebase   │
+│   SYSTEMS & TOOL ── Docker · Tilt · Traefik · FastMCP · GitHub Actions · Vitest · Biome        │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### [05] ACTIVITY & METRICS
+### [05] ENGINEERING TELEMETRY
 
 <div align="center">
 
-| Total Contributions | Merged PRs | Repositories Impacted | Flisk Maintainer |
-| :---: | :---: | :---: | :---: |
-| **2,000+** | **214** | **50+ Ecosystems** | **83 Merged in Core** |
+| Metric | Measurement | Verification Scope | Status |
+| :--- | :---: | :--- | :---: |
+| **Total Lifetime Contributions** | **2,000+** | GitHub Global Activity Graph | VERIFIED |
+| **Merged Pull Requests** | **214** | 50+ Public Production Ecosystems | ACHIEVED |
+| **Core Flisk Contributions** | **83** | Main CLI &amp; Multi-Service Orchestrator | MAINTAINER |
+| **Flisk Ecosystem Collaboration** | **66 Repositories** | Review Authority &amp; Write Access | AUTHORIZED |
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=AK-Lmn&show_icons=true&theme=dark&bg_color=09090b&title_color=f4f4f5&text_color=a1a1aa&icon_color=fafafa&border_color=27272a&hide_border=false" height="155" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=AK-Lmn&show_icons=true&theme=dark&bg_color=090a0f&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&border_color=1e2536&hide_border=false" height="155" />
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=AK-Lmn&theme=dark&background=09090b&border=27272a&stroke=27272a&ring=fafafa&fire=09090b&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=71717a" height="155" />
+<img src="https://streak-stats.demolab.com/?user=AK-Lmn&theme=dark&background=090a0f&border=1e2536&stroke=1e2536&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" height="155" />
+
+<br/><br/>
+
+``` text
+[SESSION_TERMINATED: ALL_SYSTEMS_OPERATIONAL] // 2026-11-20
+```
 
 </div>
