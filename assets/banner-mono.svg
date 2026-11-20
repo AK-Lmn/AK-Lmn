@@ -44,10 +44,10 @@
       <text x="0" y="5" text-anchor="middle" class="mono-pill-text">FLISK MAINTAINER</text>
     </g>
 
-    <!-- Pill 2: 145+ Merged PRs -->
+    <!-- Pill 2: 210+ Merged PRs -->
     <g transform="translate(0, 0)">
       <rect x="-110" y="-16" width="220" height="32" rx="6" fill="#18181b" stroke="#27272a" stroke-width="1"/>
-      <text x="0" y="5" text-anchor="middle" class="mono-pill-text">145+ MERGED PRS</text>
+      <text x="0" y="5" text-anchor="middle" class="mono-pill-text">200+ MERGED PRS</text>
     </g>
 
     <!-- Pill 3: Flagship LibriQ -->
