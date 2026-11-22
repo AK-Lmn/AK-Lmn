@@ -1,13 +1,18 @@
 # Merged PR Log
 
-External open-source contributions — 146 merged PRs documented here, across the Flisk, XERJ, Quay, DevBoard and other ecosystems.
+External open-source contributions — 149 merged PRs documented here, across the Flisk, XERJ, Quay, DevBoard and other ecosystems.
 
-Total merged PRs across all repositories (including my own projects like LibriQ): **205** as of 20 Nov 2026, per GitHub.
+Total merged PRs across all repositories (including my own projects like LibriQ): **248** as of 22 Nov 2026, per GitHub.
 
 Companion: [REVIEWS-LOG.md](REVIEWS-LOG.md) — PRs I have reviewed as a maintainer / reviewer.
 
 ---
-#### [`flisk-sh/flisk`](https://github.com/flisk-sh/flisk) (83 Merged in Core)
+#### [`flisk-sh/flisk`](https://github.com/flisk-sh/flisk) (86 Merged in Core)
+`›` `[FIX]` &nbsp;·&nbsp; [fix(help): use a working create example and test that examples parse (#3745)](https://github.com/flisk-sh/flisk/pull/4713)<br/>
+`›` `[FIX]` &nbsp;·&nbsp; [fix(completion): reject conflicting shell argument and --shell option (#4433)](https://github.com/flisk-sh/flisk/pull/4712)<br/>
+`›` `[PERF]` &nbsp;·&nbsp; [perf(mcp): add problems-only option to doctor command and tool (#3851)](https://github.com/flisk-sh/flisk/pull/4983)<br/>
+`›` `[FIX]` &nbsp;·&nbsp; [fix(up): ensure consistent suggestions array in json error responses (#4522)](https://github.com/flisk-sh/flisk/pull/4979)<br/>
+`›` `[FEAT]` &nbsp;·&nbsp; [feat(config): collect all invalid fields when validating project.json (#4574)](https://github.com/flisk-sh/flisk/pull/4975)<br/>
 `›` `[FIX]` &nbsp;·&nbsp; [fix(cli): show tilt master file in flisk info only when it exists (#4434)](https://github.com/flisk-sh/flisk/pull/4714)<br/>
 `›` `[FIX]` &nbsp;·&nbsp; [fix(runtime): wrap --check-assets output in the standard JSON envelope (#4467)](https://github.com/flisk-sh/flisk/pull/4582)<br/>
 `›` `[FIX]` &nbsp;·&nbsp; [fix(doctor): clarify repair summary when checks need manual action (#4444)](https://github.com/flisk-sh/flisk/pull/4580)<br/>
