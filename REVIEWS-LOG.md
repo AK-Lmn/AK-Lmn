@@ -1,11 +1,12 @@
 # PR Reviews Log
 
-PRs I have reviewed as a maintainer / reviewer — **68 reviews** as of 20 Nov 2026, per GitHub.
+PRs I have reviewed as a maintainer / reviewer — **69 reviews** as of 23 Nov 2026, per GitHub.
 
 Companion to [PR-LOG.md](PR-LOG.md) — the log of PRs I authored and merged.
 
 ---
-#### [`flisk-sh/flisk`](https://github.com/flisk-sh/flisk) (62 reviewed)
+#### [`flisk-sh/flisk`](https://github.com/flisk-sh/flisk) (63 reviewed)
+`›` `[OPEN]` &nbsp;·&nbsp; [refactor(doctor): dissolve the doctor-wiring compat shim (#5333)](https://github.com/flisk-sh/flisk/pull/5333)<br/>
 `›` `[OPEN]` &nbsp;·&nbsp; [fix(create): report bun as required for the default API](https://github.com/flisk-sh/flisk/pull/4696)<br/>
 `›` `[MERGED]` &nbsp;·&nbsp; [fix(resource): explain how to create a migrator when --type migrator is used](https://github.com/flisk-sh/flisk/pull/4677)<br/>
 `›` `[OPEN]` &nbsp;·&nbsp; [fix(up): see the program after a leading cd in a setup job](https://github.com/flisk-sh/flisk/pull/4676)<br/>
