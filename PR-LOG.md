@@ -1,13 +1,15 @@
 # Merged PR Log
 
-External open-source contributions — 149 merged PRs documented here, across the Flisk, XERJ, Quay, DevBoard and other ecosystems.
+External open-source contributions — 157 merged PRs documented here, across the Flisk, XERJ, Quay, DevBoard and other ecosystems.
 
-Total merged PRs across all repositories (including my own projects like LibriQ): **248** as of 22 Nov 2026, per GitHub.
+Total merged PRs across all repositories (including my own projects like LibriQ): **256** as of 23 Nov 2026, per GitHub.
 
 Companion: [REVIEWS-LOG.md](REVIEWS-LOG.md) — PRs I have reviewed as a maintainer / reviewer.
 
 ---
-#### [`flisk-sh/flisk`](https://github.com/flisk-sh/flisk) (86 Merged in Core)
+#### [`flisk-sh/flisk`](https://github.com/flisk-sh/flisk) (88 Merged in Core)
+`›` `[FEAT]` &nbsp;·&nbsp; [feat(json): report specific error codes for named FliskError types (#3849)](https://github.com/flisk-sh/flisk/pull/4909)<br/>
+`›` `[FIX]` &nbsp;·&nbsp; [fix(config): suggest closest matching key on unknown service.json field (#5144)](https://github.com/flisk-sh/flisk/pull/5164)<br/>
 `›` `[FIX]` &nbsp;·&nbsp; [fix(help): use a working create example and test that examples parse (#3745)](https://github.com/flisk-sh/flisk/pull/4713)<br/>
 `›` `[FIX]` &nbsp;·&nbsp; [fix(completion): reject conflicting shell argument and --shell option (#4433)](https://github.com/flisk-sh/flisk/pull/4712)<br/>
 `›` `[PERF]` &nbsp;·&nbsp; [perf(mcp): add problems-only option to doctor command and tool (#3851)](https://github.com/flisk-sh/flisk/pull/4983)<br/>
@@ -97,7 +99,16 @@ Companion: [REVIEWS-LOG.md](REVIEWS-LOG.md) — PRs I have reviewed as a maintai
 `›` `[DOCS]` &nbsp;·&nbsp; [docs(cli): document tdk doctor --no-ping and --ping-timeout flags](https://github.com/flisk-sh/flisk/pull/659)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [test(cli): cover env-validator utility functions](https://github.com/flisk-sh/flisk/pull/658)<br/>
 
+#### [`flisk-sh/flisk-export`](https://github.com/flisk-sh/flisk-export) &nbsp;·&nbsp; [`flisk-sh/chat`](https://github.com/flisk-sh/chat)
+`›` `[FIX]` &nbsp;·&nbsp; [fix(render): export bun backend with bun commands and BUN_VERSION (#35)](https://github.com/flisk-sh/flisk-export/pull/39)<br/>
+`›` `[FIX]` &nbsp;·&nbsp; [fix(compose): clarify appType requirement in empty export hint (#33)](https://github.com/flisk-sh/flisk-export/pull/38)<br/>
+`›` `[FIX]` &nbsp;·&nbsp; [fix(render): export frontend without start script as static site (#34)](https://github.com/flisk-sh/flisk-export/pull/37)<br/>
+`›` `[FIX]` &nbsp;·&nbsp; [fix(a11y): add main landmark to home page (#232)](https://github.com/flisk-sh/chat/pull/377)<br/>
+`›` `[FIX]` &nbsp;·&nbsp; [fix(ui): format resetsIn duration in LimitCard (#360)](https://github.com/flisk-sh/chat/pull/374)<br/>
+
 #### [`flisk-sh/flisk-labs`](https://github.com/flisk-sh/flisk-labs) &nbsp;·&nbsp; [`flisk-sh/releases`](https://github.com/flisk-sh/releases)
+`›` `[FIX]` &nbsp;·&nbsp; [fix(catalog): remove empty duplicate Quickstart entry (#8)](https://github.com/flisk-sh/flisk-labs/pull/56)<br/>
+`›` `[PERF]` &nbsp;·&nbsp; [perf(ci): cache Bundler dependencies in Pages workflow (#22)](https://github.com/flisk-sh/flisk-labs/pull/53)<br/>
 `›` `[TEST]` &nbsp;·&nbsp; [test(validate): verify that every catalog lab_id exists in content/labs (#10)](https://github.com/flisk-sh/flisk-labs/pull/50)<br/>
 `›` `[CI]` &nbsp;·&nbsp; [ci(releases): notify Scoop on published Flisk releases](https://github.com/flisk-sh/releases/pull/18)<br/>
 
