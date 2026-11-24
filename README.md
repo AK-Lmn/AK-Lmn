@@ -2,8 +2,6 @@
 
 Full-stack developer · Flisk maintainer · Building in public
 
-**Open to freelance & junior remote roles** — see my work at [aklmn.me](https://aklmn.me)
-
 [![Flisk Maintainer](https://img.shields.io/badge/FLISK-MAINTAINER-ffffff?style=flat-square&logo=github&labelColor=0d101a&color=1e2433)](https://github.com/flisk-sh/flisk/issues/1164) [![Merged PRs](https://img.shields.io/badge/MERGED--PRS-289-ffffff?style=flat-square&labelColor=0d101a&color=FF2E9A)](https://github.com/AK-Lmn) [![Sponsor](https://img.shields.io/badge/SPONSOR-GITHUB-ffffff?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0d101a&color=1e2433)](https://github.com/sponsors/AK-Lmn) [![Ko-fi](https://img.shields.io/badge/KO--FI-SUPPORT-ffffff?style=flat-square&logo=kofi&logoColor=white&labelColor=0d101a&color=1e2433)](https://ko-fi.com/aklmn)
 
 ## Featured
@@ -27,5 +25,3 @@ Full-stack developer · Flisk maintainer · Building in public
 </p>
 
 ---
-
-[aklmn.me](https://aklmn.me) · [GitHub Sponsors](https://github.com/sponsors/AK-Lmn) · [Ko-fi](https://ko-fi.com/aklmn)
