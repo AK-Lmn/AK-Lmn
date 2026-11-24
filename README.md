@@ -2,14 +2,14 @@
 
 Full-stack developer · Flisk maintainer · Building in public
 
-[![Flisk Maintainer](https://img.shields.io/badge/FLISK-MAINTAINER-ffffff?style=flat-square&logo=github&labelColor=0d101a&color=1e2433)](https://github.com/flisk-sh/flisk/issues/1164) [![Merged PRs](https://img.shields.io/badge/MERGED--PRS-289-ffffff?style=flat-square&labelColor=0d101a&color=FF2E9A)](https://github.com/AK-Lmn) [![Sponsor](https://img.shields.io/badge/SPONSOR-GITHUB-ffffff?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0d101a&color=1e2433)](https://github.com/sponsors/AK-Lmn) [![Ko-fi](https://img.shields.io/badge/KO--FI-SUPPORT-ffffff?style=flat-square&logo=kofi&logoColor=white&labelColor=0d101a&color=1e2433)](https://ko-fi.com/aklmn)
+[![Flisk Maintainer](https://img.shields.io/badge/FLISK-MAINTAINER-ffffff?style=flat-square&logo=github&labelColor=0d101a&color=1e2433)](https://github.com/flisk-sh/flisk/issues/1164) [![Merged PRs](https://img.shields.io/badge/MERGED--PRS-315-ffffff?style=flat-square&labelColor=0d101a&color=FF2E9A)](https://github.com/AK-Lmn) [![Sponsor](https://img.shields.io/badge/SPONSOR-GITHUB-ffffff?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0d101a&color=1e2433)](https://github.com/sponsors/AK-Lmn) [![Ko-fi](https://img.shields.io/badge/KO--FI-SUPPORT-ffffff?style=flat-square&logo=kofi&logoColor=white&labelColor=0d101a&color=1e2433)](https://ko-fi.com/aklmn)
 
 ## Featured
 
 - **[LibriQ](https://libriq.app)** · [Source](https://github.com/AK-Lmn/Libriq) — 3D digital bookshelf and reading tracker. Three.js, offline-first PWA. 65 merged PRs.
 - **[LogicLab](https://loglab.vercel.app)** · [Source](https://github.com/AK-Lmn/Logiclab) — "See your Python code think." Interactive Python execution visualizer, in the browser.
 - **[ChemKit](https://chemkit.vercel.app)** · [Source](https://github.com/AK-Lmn/ChemKit) — Chemistry toolkit with 7 interactive tools.
-- **[Flisk Ecosystem](https://github.com/flisk-sh)** · [Core repo](https://github.com/flisk-sh/flisk) — Maintainer & reviewer across the flisk-sh org. 88 merged PRs in core (101 ecosystem).
+- **[Flisk Ecosystem](https://github.com/flisk-sh)** · [Core repo](https://github.com/flisk-sh/flisk) — Maintainer & reviewer across the flisk-sh org. 93 merged PRs in core (126 ecosystem).
 
 ## Stack
 
@@ -25,3 +25,5 @@ Full-stack developer · Flisk maintainer · Building in public
 </p>
 
 ---
+
+[aklmn.me](https://aklmn.me) · [GitHub Sponsors](https://github.com/sponsors/AK-Lmn) · [Ko-fi](https://ko-fi.com/aklmn)
