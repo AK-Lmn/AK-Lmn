@@ -21,9 +21,6 @@ Full-stack developer · Flisk maintainer · Building in public
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AK-Lmn&show_icons=true&theme=dark&bg_color=090a0f&title_color=FF2E9A&text_color=94a3b8&icon_color=FF2E9A&border_color=1e2536&hide_border=false" height="155" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AK-Lmn&layout=compact&langs_count=8&theme=dark&bg_color=090a0f&title_color=FF2E9A&text_color=94a3b8&border_color=1e2536&hide_border=false" height="155" />
   <img src="https://streak-stats.demolab.com/?user=AK-Lmn&theme=dark&background=090a0f&border=1e2536&ring=FF2E9A&fire=FF2E9A&currStreakNum=ffffff&sideNums=94a3b8&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=94a3b8&hide_border=false" height="155" />
 </p>
-
----
-
-[aklmn.me](https://aklmn.me) · [GitHub Sponsors](https://github.com/sponsors/AK-Lmn) · [Ko-fi](https://ko-fi.com/aklmn)
